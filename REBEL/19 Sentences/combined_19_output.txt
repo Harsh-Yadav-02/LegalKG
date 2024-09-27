@@ -1,0 +1,56 @@
+1. Spodnje Hoče () is a settlement in and the administrative centre of the Municipality of Hoče–Slivnica in northeastern Slovenia
+[['Spodnje Hoče', 'located in the administrative territorial entity', 'Municipality of Hoče–Slivnica'], ['Municipality of Hoče–Slivnica', 'contains settlement', 'Spodnje Hoče'], ['Municipality of Hoče–Slivnica', 'country', 'Slovenia'], ['Slovenia', 'contains administrative territorial entity', 'Municipality of Hoče–Slivnica']]
+
+2. Herbert Blankenhorn (15 December 1904 in Mülhausen – 10 August 1991 in Badenweiler) was a German diplomat
+[['Herbert Blankenhorn', 'date of birth', '15 December 1904'], ['Herbert Blankenhorn', 'place of birth', 'Mülhausen'], ['Herbert Blankenhorn', 'date of death', '10 August 1991'], ['Herbert Blankenhorn', 'place of death', 'Badenweiler'], ['Herbert Blankenhorn', 'instance of', 'German'], ['German', 'occupation', 'diplomat']]
+
+3. Operation Dragon Strike was a NATO counter-insurgent mission in Kandahar province, Afghanistan, against Taliban forces, which started on September 15, 2010
+[['Operation Dragon Strike', 'location', 'Kandahar province'], ['Operation Dragon Strike', 'start time', 'September 15, 2010'], ['Kandahar province', 'country', 'Afghanistan'], ['Afghanistan', 'contains administrative territorial entity', 'Kandahar province']]
+
+4. Saleem Safi (Urdu, ) is a Pakistani journalist, columnist, defence analyst and current affairs TV talk show anchorperson
+[['Saleem Safi', 'country of citizenship', 'Pakistan'], ['Urdu', 'country', 'Pakistan'], ['Pakistan', 'language used', 'Urdu'], ['journalist', 'occupation', 'Saleem Safi'], ['columnist', 'subclass of', 'journalist'], ['defence analyst', 'subclass of', 'Saleem Safi'], ['Saleem Safi', 'occupation', 'defence analyst'], ['Saleem Safi', 'occupation', 'current affairs TV talk show anchorperson']]
+
+5. Los Trancos Creek (meaning "barriers" or "cattle guards" from the Spanish "Las Trancas") is a creek that flows northerly from Monte Bello Ridge on the northeast slope of the Santa Cruz Mountains to its confluence with San Francisquito Creek at Stanford University in California, United States
+[['Los Trancos Creek', 'mouth of the watercourse', 'San Francisquito Creek'], ['Monte Bello Ridge', 'mountain range', 'Santa Cruz Mountains'], ['Monte Bello Ridge', 'located in the administrative territorial entity', 'California'], ['California', 'country', 'United States'], ['Los Trancos Creek', 'located in present-day administrative territorial entity', 'northerly'], ['Santa Cruz Mountains', 'mountain range', 'northeast']]
+
+6. Peter Sainthill (8 July 1593 – 12 August 1648) of Bradninch in Devon, England, was twice elected a Member of Parliament for Tiverton in Devon, in the Short Parliament 1640 and in the Long Parliament in November 1640
+[['Peter Sainthill', 'date of birth', '8 July 1593'], ['Peter Sainthill', 'located in present-day administrative territorial entity', 'Bradninch'], ['Peter Sainthill', 'located in present-day administrative territorial entity', 'England'], ['England', 'located in present-day administrative territorial entity', 'Devon'], ['Devon', 'contains settlement', 'Bradninch'], ['Peter Sainthill', 'member of', 'Short Parliament'], ['Short Parliament', 'inception', '1640'], ['Short Parliament', 'location', 'Devon'], ['Devon', 'contains settlement', 'Tiverton'], ['Peter Sainthill', 'member of', 'Long Parliament'], ['Long Parliament', 'inception', 'November 1640'], ['Long Parliament', 'location', 'Devon'], ['Devon', 'contains settlement', 'Tiverton']]
+
+7. Romany Love is a 1931 British musical film directed by Fred Paul and starring Esmond Knight, Florence McHugh and Roy Travers
+[['Romany Love', 'publication date', '1931'], ['Romany Love', 'genre', 'British musical film'], ['Romany Love', 'director', 'Fred Paul'], ['Fred Paul', 'performer', 'British'], ['Esmond Knight', 'cast member', 'Romany Love'], ['Florence McHugh', 'cast member', 'Romany Love']]
+
+8. Monopoly Star Wars is the 1997 Monopoly franchise Star Wars video game based on the board game and set in the Star Wars fictional universe
+[['Monopoly Star Wars', 'based on', 'franchise'], ['Monopoly Star Wars', 'based on', 'Monopoly'], ['Monopoly Star Wars', 'based on', 'Star Wars fictional universe']]
+
+9. Josef Schäffer (born July 2, 1891 in Moravia) was an Austrian track and field athlete who competed in the 1912 Summer Olympics
+[['Josef Schäffer', 'date of birth', 'July 2, 1891'], ['Josef Schäffer', 'place of birth', 'Moravia'], ['Josef Schäffer', 'country for sport', 'Austrian'], ['Josef Schäffer', 'instance of', 'track and field'], ['Josef Schäffer', 'country for sport', '1912 Summer Olympics']]
+
+10. Tekla Teresa Łubieńska (born 6 June 1767 in Warsaw, died 15 August 1810 in Kraków) – was a Polish playwright, poet and translator
+[['Tekla Teresa Łubieńska', 'date of birth', '6 June 1767'], ['Tekla Teresa Łubieńska', 'place of birth', 'Warsaw'], ['Tekla Teresa Łubieńska', 'date of death', '15 August 1810'], ['Tekla Teresa Łubieńska', 'place of death', 'Kraków'], ['Tekla Teresa Łubieńska', 'country of origin', 'Polish'], ['playwright', 'subclass of', 'writer'], ['writer', 'subclass of', 'person'], ['Polish', 'country', 'Poland']]
+
+11. The 2014 Tasmanian state election was held on 15 March 2014 to elect all 25 members to the House of Assembly
+[['2014 Tasmanian state election', 'point in time', '15 March 2014'], ['2014 Tasmanian state election', 'facet of', 'to elect all members'], ['House of Assembly', 'instance of', '25']]
+
+12. František Cína Jelínek (6 June 1882, in Prague-Karlín – 3 February 1961, in Prague) was a Czech landscape painter
+[['František Cína Jelínek', 'date of birth', '6 June 1882'], ['František Cína Jelínek', 'place of birth', 'Prague-Karlín'], ['František Cína Jelínek', 'date of death', '3 February 1961'], ['František Cína Jelínek', 'place of death', 'Prague'], ['František Cína Jelínek', 'instance of', 'Czech'], ['landscape painter', 'instance of', 'painting'], ['Czech', 'country', 'Czech Republic']]
+
+13. José González Ganoza (10 July 1954 – 8 December 1987) was a Peruvian international footballer who played as a goalkeeper
+[['José González Ganoza', 'date of birth', '10 July 1954'], ['José González Ganoza', 'date of death', '8 December 1987'], ['Peruvian', 'country of citizenship', 'Peru']]
+
+14. The Canadian Journal of Civil Engineering is a monthly peer-reviewed scientific journal established in 1974 and published by the NRC Research Press
+[['The Canadian Journal of Civil Engineering', 'publisher', '1974'], ['The Canadian Journal of Civil Engineering', 'publisher', 'NRC Research Press'], ['NRC Research Press', 'publisher', 'publisher']]
+
+15. Die Pleite was a German periodical founded and edited by George Grosz, Wieland Herzfelde, and John Heartfield, which ran from 1919 to 1924
+[['Die Pleite', 'founded by', 'George Grosz, Wieland Herzfelde, John Heartfield'], ['George Grosz', 'occupation', 'founder'], ['Wieland Herzfelde', 'occupation', 'founder'], ['John Heartfield', 'occupation', 'founder']]
+
+16. Soulstice is a downtempo/electronic soul band that is a part of the US based record label Om Records and later to Uno Recordings The band started after a collaboration between Gabriel Rene and Andy Caldwell in 1995
+[['Soulstice', 'performer', 'downtempo/electronic soul'], ['Soulstice', 'record label', 'Om Records'], ['Om Records', 'country of origin', 'US'], ['Soulstice', 'founded by', 'collaboration between Gabriel Rene and Andy Caldwell'], ['Gabriel Rene', 'founded by', 'Soulstice'], ['Andy Caldwell', 'founded by', 'Soulstice'], ['Soulstice', 'record label', 'Uno Recordings'], ['Uno Recordings', 'country of origin', 'US'], ['1995', 'inception', 'Soulstice']]
+
+17. Innico Maria Guevara-Suardo (4 June 1744 in Naples – 25 April 1814 in Catania) was a member and leader of the Order of Saint John (also known as the Sovereign Military Order of Malta)
+[['Innico Maria Guevara-Suardo', 'date of birth', '4 June 1744'], ['Innico Maria Guevara-Suardo', 'place of birth', 'Naples'], ['Innico Maria Guevara-Suardo', 'date of death', '25 April 1814'], ['Innico Maria Guevara-Suardo', 'place of death', 'Catania'], ['Innico Maria Guevara-Suardo', 'member of', 'Order of Saint John'], ['Order of Saint John', 'religious order', 'Religious Order']]
+
+18. Pati Patni Aur Tawaif [English: Husband, Wife and prostitute] is a 1990 Hindi-language Indian feature film directed by Rajkumar Kohli, starring Mithun Chakraborty, Salma Agha, Farha Naaz and Om Prakash
+[['Pati Patni Aur Tawaif', 'genre', 'Hindi-language Indian feature film'], ['Pati Patni Aur Tawaif', 'product or material produced', 'Rajkumar Kohli'], ['Rajkumar Kohli', 'occupation', 'Director'], ['Pati Patni Aur Tawaif', 'cast member', 'Mithun Chakraborty'], ['Mithun Chakraborty', 'occupation', 'Actor'], ['Pati Patni Aur Tawaif', 'cast member', 'Salma Agha'], ['Salma Agha', 'occupation', 'Actor'], ['Pati Patni Aur Tawaif', 'cast member', 'Farha Naaz'], ['Farha Naaz', 'occupation', 'Actor'], ['Pati Patni Aur Tawaif', 'cast member', 'Om Prakash'], ['Om Prakash', 'occupation', 'Actor']]
+
+19. Addio Alexandra is an Italian romantic drama film, released in 1969
+[['Addio Alexandra', 'genre', 'Italian romantic drama'], ['Addio Alexandra', 'publication date', '1969']]

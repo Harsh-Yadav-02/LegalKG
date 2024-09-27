@@ -1,0 +1,1097 @@
+1. Indian Oil Corporation v NEPC India Limited and Others
+[['Indian Oil Corporation', 'v', 'NEPC India Limited'], ['Indian Oil Corporation', 'v', 'Others']]
+
+2. Supreme Court of India
+[['Supreme Court of India', 'country', 'India'], ['Supreme Court of India', 'type of organization', 'court'], ['Supreme Court of India', 'location', 'India']]
+
+3. -
+[]
+
+4. 20 July 2006
+[['20 July 2006', 'date', 'event']]
+
+5. Cr.A.
+[]
+
+6. No 834 of 2002
+[['No 834 of 2002', 'type of legal document', 'Act'], ['Act', 'year of enactment', '2002']]
+
+7. The Judgment was delivered by: R V Raveendran, J
+[['R V Raveendran', 'delivered judgment', 'The Judgment']]
+
+8. 1.
+[]
+
+9. These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.
+[['Madras High Court', 'passed order', '2932001'], ['Madras High Court', 'passed order', 'Crl.OP Nos2418 of 1999'], ['Madras High Court', 'passed order', 'Crl.OP Nos1563 of 2000']]
+
+10. The said two petitions were filed by the respondents herein u/s.
+[]
+
+11. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).
+[['Criminal Procedure Code', 'section', '482'], ['Criminal Procedure Code', 'commonly abbreviated as', 'Code'], ['Criminal Procedure Code', 'country', 'India'], ['Code', 'country', 'India'], ['CC No.299 of 1999', 'filed with', 'Judicial Magistrate No6, Coimbatore'], ['CC No.299 of 1999', 'filed by', 'appellant'], ['CC No.299 of 1999', 'filed against', 'them'], ['CC No.286 of 1998', 'filed with', 'Judicial Magistrate, Alandur'], ['CC No.286 of 1998', 'filed by', 'appellant'], ['CC No.286 of 1998', 'filed against', 'them'], ['appellant', 'country of citizenship', 'India'], ['appellant', 'filed complaint', 'CC No.299 of 1999'], ['appellant', 'filed complaint', 'CC No.286 of 1998'], ['Judicial Magistrate No6, Coimbatore', 'location', 'Coimbatore']]
+
+12. 2.
+[]
+
+13. The appellant (Indian Oil Corporation, for short 'IOC') entered into two contracts, one with the first respondent (NEPC India Ltd) and the other with its sister company Skyline NEPC Limited ('Skyline' for short) agreeing to supply to them aviation turbine fuel and aviation lubricants (together referred to as "aircraft fuel").
+[['Indian Oil Corporation', 'entered into contract with', 'NEPC India Ltd'], ['Indian Oil Corporation', 'entered into contract with', 'Skyline NEPC Limited'], ['Skyline NEPC Limited', 'sister company of', 'Indian Oil Corporation']]
+
+14. According to the appellant, in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5,28,23,501.90 and Skyline became due in a sum of Rs.13,12,76,421.25 as on 2941997.
+[['Skyline', 'became due', 'Rs.13,12,76,421.25'], ['first respondent', 'became due', 'Rs.5,28,23,501.90']]
+
+15. 3.
+[]
+
+16. The first respondent hypothecated its two Fokker F27-500 Aircrafts, bearing Registration No. VT-NEJ (12684) and VT-NEK (10687) to the appellant under Deed of Hypothecation dated 151997, to secure the outstanding amounts.
+[['Fokker F27-500 Aircraft', 'model', 'F27-500'], ['Fokker F27-500 Aircraft', 'registration number', 'VT-NEJ'], ['Fokker F27-500 Aircraft', 'registration number', 'VT-NEK'], ['VT-NEJ', 'registration number', '12684'], ['VT-NEK', 'registration number', '10687'], ['Fokker F27-500 Aircraft', 'hypothecated to', 'appellant'], ['appellant', 'received', 'Deed of Hypothecation'], ['Deed of Hypothecation', 'date', '151997']]
+
+17. Cl. (2) of the said Deed provided that the two aircrafts with all parts and accessories stood hypothecated to IOC by way of charge and as security for payment of the amounts due, with effect from the date of hypothecation.
+[['IOC', 'owns', 'aircrafts'], ['aircrafts', 'contains part', 'parts'], ['aircrafts', 'contains accessory', 'accessories']]
+
+18. Cl. (3) read with the schedule set out the instalments schedule for payment of the amount due.
+[['Cl', 'read with', 'schedule'], ['schedule', 'sets out', 'instalments schedule'], ['instalments schedule', 'applies to', 'payment of the amount due']]
+
+19. 4.
+[]
+
+20. Under clause (6), NEPC India declared that it would not assign, sell, pledge, charge, underlet or otherwise encumber or part with the possession, custody or beneficial interest in respect of the two aircrafts without the previous written consent of IOC.
+[['NEPC India', 'declared', 'clause (6)'], ['NEPC India', 'would not assign', 'aircrafts'], ['NEPC India', 'would not sell', 'aircrafts'], ['NEPC India', 'would not pledge', 'aircrafts'], ['NEPC India', 'would not charge', 'aircrafts'], ['NEPC India', 'would not underlet', 'aircrafts'], ['NEPC India', 'would not encumber', 'aircrafts'], ['NEPC India', 'would not part with possession', 'aircrafts'], ['NEPC India', 'would not part with custody', 'aircrafts'], ['NEPC India', 'would not part with beneficial interest', 'aircrafts'], ['aircrafts', 'require consent of', 'IOC']]
+
+21. It also undertook not to do any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount.
+[['hypothecated property', 'value', 'diminish'], ['entire outstanding amount', 'clear', 'hypothecated property']]
+
+22. Cl. (9) provided that if NEPC India failed to pay any of the installments with interest within the stipulated time,or if any undertaking or assurance given by NEPC India was found to be false, IOC shall have the "right to take possession of the hypothecated property" and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.
+[['NEPC India', 'failed to pay', 'installments'], ['NEPC India', 'gave false undertaking', 'undertaking'], ['NEPC India', 'gave false assurance', 'assurance'], ['IOC', 'has right to take possession', 'hypothecated property'], ['IOC', 'sells property', 'hypothecated property'], ['IOC', 'appropriates sale proceeds', 'sale proceeds'], ['IOC', 'sells property', 'public auction'], ['IOC', 'sells property', 'private contract']]
+
+23. Cl. 12 confirmed that NEPC India had handed over the title deeds relating to the aircraft to IOC, and agreed to receive them back only after paying the amounts due.
+[['Cl. 12', 'confirmed', 'NEPC India'], ['NEPC India', 'handed over', 'IOC'], ['NEPC India', 'agreed to receive', 'IOC']]
+
+24. It is stated that Skyline also hypothecated its aircraft (VT-ECP) under a separate Hypothecation Deed dated 1451997.
+[['Skyline', 'hypothecated', 'aircraft'], ['aircraft', 'registration number', 'VT-ECP'], ['aircraft', 'hypothecated by', 'Skyline'], ['Skyline', 'created document', 'Hypothecation Deed'], ['Hypothecation Deed', 'date', '1451997']]
+
+25. It is further stated that a tripartite agreement dated 651997 was entered among IOC, NEPC India and Skyline setting out the mode of payment of the dues and recovery in the event of default.
+[['651997', 'date', 'tripartite agreement'], ['tripartite agreement', 'entered among', 'IOC'], ['tripartite agreement', 'entered among', 'NEPC India'], ['tripartite agreement', 'entered among', 'Skyline'], ['tripartite agreement', 'contains information about', 'mode of payment of the dues'], ['tripartite agreement', 'contains information about', 'recovery in the event of default']]
+
+26. 5.
+[]
+
+27. As NEPC India failed to pay the first two installments as per schedule, IOC stopped supply of aircraft fuel on 361997.
+[['NEPC India', 'failed to pay', 'first two installments'], ['first two installments', 'due date', 'schedule'], ['schedule', 'related to', 'NEPC India'], ['NEPC India', 'entity affected by', 'IOC'], ['IOC', 'action taken', 'stopped supply of aircraft fuel'], ['stopped supply of aircraft fuel', 'date', '361997']]
+
+28. However, subsequently, under a fresh agreement dated 2091997, a revised payment schedule was agreed and IOC agreed to re-commence supply of aircraft fuel on 'cash and carry' basis.
+[['IOC', 'agreed to re-commence supply of', 'aircraft fuel'], ['aircraft fuel', 'type of', 'fuel'], ['IOC', 'agreed to', 'revised payment schedule']]
+
+29. Even this arrangement came to an end as the installments were not paid.
+[['Even this arrangement', 'came to an end', 'as the installments were not paid']]
+
+30. 6.
+[]
+
+31. Apprehending that NEPC India may remove the hypothecated aircraft (VT-NEJ) from Coimbatore Airport to a place outside its reach, IOC filed CS No.425 of 1997 in the Madras High Court seeking a mandatory injunction to the Airport Authority of India and Director General of Civil Aviation to detain the said aircraft stationed at Coimbatore Airport, u/s 8 of the Aircraft Act, 1934, so as to enable it to take possession thereof.
+[['NEPC India', 'owns', 'VT-NEJ'], ['VT-NEJ', 'located at', 'Coimbatore Airport'], ['Coimbatore Airport', 'located in', 'India'], ['India', 'country', 'Asia'], ['India', 'contains administrative territorial entity', 'Madras'], ['Madras', 'contains administrative territorial entity', 'Coimbatore'], ['Coimbatore Airport', 'managed by', 'Airport Authority of India'], ['Airport Authority of India', 'managed by', 'Director General of Civil Aviation'], ['Director General of Civil Aviation', 'country', 'India'], ['Director General of Civil Aviation', 'department of', 'Government of India'], ['Government of India', 'country', 'India']]
+
+32. 7.
+[]
+
+33. The High Court granted an interim injunction on 1691997 restraining NEPC India from removing the aircraft (VT-NEJ) from Coimbatore Airport.
+[['High Court', 'granted', 'interim injunction'], ['interim injunction', 'applied to', 'NEPC India'], ['NEPC India', 'owns', 'aircraft VT-NEJ'], ['aircraft VT-NEJ', 'located at', 'Coimbatore Airport']]
+
+34. In regard to the other hypothecated aircraft (VT-NEK) kept at Meenambakkam (Chennai) Airport, IOC filed a suit (OS No.3327/1998) in the City Civil Court, Chennai for a similar mandatory injunction.
+[['VT-NEK', 'kept at', 'Meenambakkam Airport'], ['Meenambakkam Airport', 'located in', 'Chennai'], ['IOC', 'filed suit in', 'City Civil Court, Chennai'], ['City Civil Court, Chennai', 'located in', 'Chennai'], ['IOC', 'filed suit for', 'mandatory injunction'], ['City Civil Court, Chennai', 'court case number', 'OS No.3327/1998']]
+
+35. 8.
+[]
+
+36. IOC filed the two complaints against NEPC India and its two Directors (respondents 2 & 3 herein) in July, 1998 u/s.
+[['NEPC India', 'has director', 'respondents 2'], ['NEPC India', 'has director', 'respondents 3']]
+
+37. 200 of Code of Criminal Procedure alleging unauthorized removal of the engines and certain other parts from the two hypothecated aircraft.
+[['Code of Criminal Procedure', 'section', '200'], ['Code of Criminal Procedure', 'country', 'Unknown'], ['Code of Criminal Procedure', 'type of legal document', 'law']]
+
+38. They are:
+[]
+
+39. "(i) CC No. 299 of 1999 before the Judicial Magistrate No6, Coimbatore, regarding Aircraft bearing No. VT-NEJ.
+[['Judicial Magistrate No6', 'located in', 'Coimbatore'], ['CC No. 299 of 1999', 'regarding', 'Aircraft bearing No. VT-NEJ']]
+
+40. (ii) CC No. 286 of 1998 before the Judicial Magistrate, Alandur (Chennai) regarding aircraft bearing No. VT NEK."
+[['CC No. 286 of 1998', 'heard by', 'Judicial Magistrate, Alandur'], ['Judicial Magistrate, Alandur', 'located in', 'Chennai'], ['Chennai', 'country', 'India']]
+
+41. 9.
+[]
+
+42. The relevant averments in the complaint in CC No.299/1999 (Coimbatore Court) reads as under:
+[['CC No.299/1999', 'court', 'Coimbatore Court']]
+
+43. "The complainant states that on 24498, IOC had come to know that NEPC India Limited in total disregard to the orders of the Hon.
+[['NEPC India Limited', 'disregard', 'orders of the Hon.'], ['NEPC India Limited', 'country', 'India'], ['India', 'contains company', 'NEPC India Limited']]
+
+44. High Court, Madras had clandestinely removed both the engines and certain other parts from the Aircraft VT-NEJ Aircraft Sl.No.
+[['High Court, Madras', 'removed', 'Aircraft VT-NEJ'], ['Aircraft VT-NEJ', 'part of', 'Aircraft'], ['Aircraft', 'has part', 'engines']]
+
+45. 10684 (Fokker F27-500) stationed at the Coimbatore Airport, Coimbatore.
+[['10684', 'aircraft model', 'Fokker F27-500'], ['10684', 'stationed at', 'Coimbatore Airport'], ['Coimbatore Airport', 'location', 'Coimbatore']]
+
+46. The complainant states that, besides the above, the act of NEPC India Limited in removing the engines and certain other parts from the Aircraft VT-NEJ Aircraft Sl.
+[['NEPC India Limited', 'removed parts from', 'Aircraft VT-NEJ'], ['Aircraft VT-NEJ', 'owned by', 'NEPC India Limited']]
+
+47. No. 10684 (Fokker F27- 500) stationed at the Coimbatore Airport, Coimbatore is against the terms of the hypothecation deed dated 0151997 and 2091997 will amount to theft, criminal breach of trust, and cheating which are offences punishable u/s 378 (Theft), 403 (Dishonest Misappropriation of Property), 405 (Criminal Breach of Trust), 415 (Cheating), 425 (Mischief) of the Indian Penal Code.
+[['No. 10684', 'stationed at', 'Coimbatore Airport'], ['Coimbatore Airport', 'located in', 'Coimbatore'], ['Coimbatore', 'country', 'India'], ['Coimbatore', 'contains airport', 'Coimbatore Airport'], ['Coimbatore Airport', 'contains aircraft', 'No. 10684'], ['Fokker F27-500', 'type of aircraft', 'No. 10684'], ['hypothecation deed', 'date', '0151997'], ['hypothecation deed', 'date', '2091997'], ['hypothecation deed', 'country', 'India'], ['hypothecation deed', 'contains terms', 'terms of the hypothecation deed'], ['terms of the hypothecation deed', 'violates', 'theft'], ['theft', 'punishable under', 'Indian Penal Code'], ['theft', 'subclass of', 'offence'], ['offence', 'subclass of', 'crime'], ['crime', 'subclass of', 'criminal breach of trust'], ['criminal breach of trust', 'subclass of', 'offence']]
+
+48. No notice was given to IOC in this regard."
+[]
+
+49. 10.
+[]
+
+50. The relevant averments in the complaint in CC No.286/1998 (Alandur Court) read as under :-
+[['CC No.286/1998', 'court case number', '286/1998'], ['CC No.286/1998', 'court', 'Alandur Court']]
+
+51. " With a view to defeat the said right of IOC (that is right to take possession and sell the aircraft), NEPC India removed the engines of the Aircraft (VT-NEK) stationed at the Meenambakkam Airport
+[['Aircraft (VT-NEK)', 'stationed at', 'Meenambakkam Airport'], ['Meenambakkam Airport', 'location', 'India']]
+
+52. The complainant states that, the act of NEPC India Limited in removing the engines and certain other parts from the Aircraft VT-NEK Aircraft Sl.
+[['NEPC India Limited', 'removed parts from', 'Aircraft VT-NEK'], ['Aircraft VT-NEK', 'owned by', 'NEPC India Limited']]
+
+53. No. 10687 (Fokker F27-500) stationed at the Meenabakkam Airport, Chennai is against the terms of the hypothecation deed dated 151997 as well as the terms of the agreement dated 2091997 and will amount to offences punishable u/s 378 (Theft), 403(Dishonest Misappropriation of Property), 405 (Criminal Breach of Trust), 415 (Cheating), 425 (Mischief) of the India Penal Code.
+[['No. 10687', 'stationed at', 'Meenabakkam Airport'], ['Meenabakkam Airport', 'located in', 'Chennai'], ['Chennai', 'country', 'India'], ['No. 10687', 'contravenes terms of', 'hypothecation deed'], ['hypothecation deed', 'date', '151997'], ['No. 10687', 'contravenes terms of', 'agreement'], ['agreement', 'date', '2091997'], ['No. 10687', 'contravenes section of', 'India Penal Code'], ['India Penal Code', 'contains section', '378'], ['India Penal Code', 'contains section', '403'], ['India Penal Code', 'contains section', '405'], ['India Penal Code', 'contains section', '415'], ['India Penal Code', 'contains section', '425']]
+
+54. No notice was given to IOC in this regard."
+[]
+
+55. Both the complaints also contain the following common allegations:
+[]
+
+56. "The complainant states that the accused had with fraudulent intention to cheat and defraud IOC had induced IOC to resume supply of Aircraft fuel on Cash and Carry basis, by undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the hypothecation agreements.
+[['IOC', 'resumed supply of', 'Aircraft fuel'], ['Aircraft fuel', 'payment method', 'Cash and Carry'], ['IOC', 'had induced', 'accused'], ['IOC', 'had induced', 'accused'], ['accused', 'undertook to clear', 'outstanding amount'], ['outstanding amount', 'amount', 'Rs18 crores']]
+
+57. However, the accused had failed to clear the said outstanding amounts and had breached the terms of the hypothecation agreements.
+[]
+
+58. Subsequently on 2092007, an agreement was entered into between IOC and M/s NEPC India Limited.
+[['IOC', 'entered into agreement with', 'M/s NEPC India Limited'], ['M/s NEPC India Limited', 'country of operation', 'India']]
+
+59. As per the terms of the above agreement M/s NEPC India Limited had agreed to clear the outstanding amount of Rs18 crores approximately due to IOC from M/s NEPC India Limited and M/s Skyline NEPC Limited within a time frame.
+[['M/s NEPC India Limited', 'agreed to', 'clear outstanding amount'], ['M/s NEPC India Limited', 'owed amount to', 'IOC'], ['M/s Skyline NEPC Limited', 'owed amount to', 'IOC']]
+
+60. However, M/s NEPC India Limited had failed to keep up the schedule of payments mentioned in the said agreements.
+[['M/s NEPC India Limited', 'failed to keep up', 'schedule of payments'], ['schedule of payments', 'mentioned in', 'said agreements'], ['said agreements', 'entered into by', 'M/s NEPC India Limited']]
+
+61. The facts narrated above will clearly show that IOC has got every right to take possession of the Aircraft VT-NEK as well as VT-NEJ.
+[['IOC', 'owns', 'Aircraft VT-NEJ'], ['IOC', 'owns', 'Aircraft VT-NEK']]
+
+62. Only with a view to defeat the said right of IOC, M/s NEPC India has removed the engines of the aircraft.
+[['M/s NEPC India', 'removed', 'engines of the aircraft'], ['engines of the aircraft', 'owned by', 'M/s NEPC India'], ['IOC', 'has right', 'defeat']]
+
+63. .."
+[]
+
+64. 11.
+[]
+
+65. The respondents herein filed Crl.
+[['The respondents herein', 'filed', 'Crl.'], ['Crl.', 'type of legal document', 'petition']]
+
+66. OP No1563 of 2000 and Crl.O.P. No.2418 of 1999 respectively u/s.
+[['OP No1563 of 2000', 'year', '2000'], ['OP No1563 of 2000', 'number', '1563'], ['Crl.O.P. No.2418 of 1999', 'year', '1999'], ['Crl.O.P. No.2418 of 1999', 'number', '2418']]
+
+67. 482 of Cr.PC for quashing the said two complaints on the following two grounds:
+[]
+
+68. (i) The complaints related to purely contractual disputes of a civil nature in respect of which IOC had already sought injunctive reliefs and money decrees.
+[['IOC', 'sought', 'injunctive reliefs'], ['IOC', 'sought', 'money decrees'], ['complaints', 'related to', 'contractual disputes']]
+
+69. (ii) Even if all the allegations in the complaints were taken as true, they did not constitute any criminal offence as defined under sections 378, 403, 405, 415 or 425 IPC.
+[['sections 378, 403, 405, 415 or 425 IPC', 'defines', 'criminal offence'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'section 378'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'section 403'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'section 405'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'section 415'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'section 425']]
+
+70. 12.
+[]
+
+71. The High Court by common judgment dated 2332001 allowed both the petitions and quashed the two complaints.
+[['High Court', 'issued judgment', '2332001'], ['High Court', 'allowed petition', 'both the petitions'], ['High Court', 'quashed complaint', 'two complaints']]
+
+72. It accepted the second ground urged by the Respondents herein, but rejected the first ground.
+[['Respondents', 'urged ground', 'second'], ['Respondents', 'urged ground', 'first'], ['Respondents', 'herein', 'Respondents'], ['Respondents', 'accepted ground', 'second'], ['Respondents', 'rejected ground', 'first']]
+
+73. The said order of the High Court is under challenge in these appeals.
+[['High Court', 'issued order', 'order of the High Court'], ['order of the High Court', 'under challenge', 'these appeals']]
+
+74. On the rival contentions urged, the following points arise for consideration :
+[]
+
+75. (i) Whether existence or availment of civil remedy in respect of disputes arising from breach of contract, bars remedy under criminal law?
+[['civil remedy', 'bars remedy under', 'criminal law'], ['civil remedy', 'available for', 'disputes arising from breach of contract']]
+
+76. (ii) Whether the allegations in the complaint, if accepted on face value, constitute any offence under sections 378, 403, 405, 415 or 425 IPC ?
+[['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'sections 378'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'sections 403'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'sections 405'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'sections 415'], ['sections 378, 403, 405, 415 or 425 IPC', 'contains section', 'sections 425']]
+
+77. Re : Point No. (i) :
+[]
+
+78. 13.
+[]
+
+79. The principles relating to exercise of jurisdiction u/s.
+[['principles', 'relate to', 'exercise of jurisdiction']]
+
+80. 482 of the Code of Criminal Procedure to quash complaints and criminal proceedings have been stated and reiterated by this Court in several decisions.
+[['482', 'part of', 'Code of Criminal Procedure'], ['Code of Criminal Procedure', 'contains provision', '482'], ['this Court', 'issued decision', '482']]
+
+81. To mention a few - Madhavrao Jiwaji Rao Scindia v. Sambhajirao Chandrojirao Angre [1988 (1) SCC 692], 1988 Indlaw SC 599 State of Haryana vs. Bhajanlal [1992 Supp (1) SCC 335], Rupan Deol Bajaj vs. Kanwar Pal Singh Gill [1995 (6) SCC 194], 1995 Indlaw SC 1896 Central Bureau of Investigation v. Duncans Agro Industries Ltd, [1996 (5) SCC 591], 1996 Indlaw SC 2982 State of Bihar vs. Rajendra Agrawalla [1996 (8) SCC 164], 1996 Indlaw SC 4034 Rajesh Bajaj v State NCT of Delhi, [1999 (3) SCC 259], 1999 Indlaw SC 447 Medchl Chemicals & Pharma (P) Ltd. v. Biological E Ltd [2000 (3) SCC 269], 2000 Indlaw SC 666 Hridaya Ranjan Prasad Verma v State of Bihar [2000 (4) SCC 168], 2000 Indlaw SC 248 M. Krishnan vs Vijay Kumar [2001 (8) SCC 645], 2001 Indlaw SC 21143 and Zandu Phamaceutical Works Ltd v. Mohd.
+[['Madhavrao Jiwaji Rao Scindia', 'v', 'Sambhajirao Chandrojirao Angre'], ['Madhavrao Jiwaji Rao Scindia', 'year of case', '1988'], ['Madhavrao Jiwaji Rao Scindia', 'court case number', '(1) SCC 692'], ['Madhavrao Jiwaji Rao Scindia', 'court case reference', '1988 Indlaw SC 599'], ['State of Haryana', 'v', 'Bhajanlal'], ['State of Haryana', 'year of case', '1992'], ['State of Haryana', 'court case number', 'Supp (1) SCC 335'], ['Rupan Deol Bajaj', 'v', 'Kanwar Pal Singh Gill'], ['Rupan Deol Bajaj', 'year of case', '1995'], ['Rupan Deol Bajaj', 'court case number', '(6) SCC 194'], ['Rupan Deol Bajaj', 'court case reference', '1995 Indlaw SC 1896']]
+
+82. Sharaful Haque [2005 (1) SCC 122].
+[['Sharaful Haque', 'case citation', '[2005 (1) SCC 122]']]
+
+83. 2004 Indlaw SC 899 The principles, relevant to our purpose are:
+[]
+
+84. (i) A complaint can be quashed where the allegations made in the complaint, even if they are taken at their face value and accepted in their entirety, do not prima facie constitute any offence or make out the case alleged against the accused.
+[['complaint', 'can be quashed', 'offence'], ['allegations', 'do not prima facie constitute', 'offence'], ['allegations', 'make out the case alleged', 'accused']]
+
+85. 14.
+[]
+
+86. For this purpose, the complaint has to be examined as a whole, but without examining the merits of the allegations.
+[['complaint', 'has to be examined as a whole', 'complaint'], ['complaint', 'has to be examined without examining the merits of the allegations', 'allegations']]
+
+87. Neither a detailed inquiry nor a meticulous analysis of the material nor an assessment of the reliability or genuineness of the allegations in the complaint, is warranted while examining prayer for quashing of a complaint.
+[['complaint', 'contains allegations', 'allegations'], ['allegations', 'reliability', 'reliability'], ['allegations', 'genuineness', 'genuineness'], ['complaint', 'contains allegations', 'allegations'], ['complaint', 'examination', 'inquiry'], ['complaint', 'examination', 'analysis'], ['complaint', 'examination', 'assessment'], ['complaint', 'examination', 'prayer for quashing']]
+
+88. (ii) A complaint may also be quashed where it is a clear abuse of the process of the court, as when the criminal proceeding is found to have been initiated with malafides/malice for wreaking vengeance or to cause harm, or where the allegations are absurd and inherently improbable.
+[['complaint', 'may be quashed', 'abuse of the process of the court'], ['abuse of the process of the court', 'characterized by', 'malafides/malice'], ['malafides/malice', 'motivation', 'wreaking vengeance'], ['malafides/malice', 'motivation', 'cause harm'], ['allegations', 'characterized by', 'absurd'], ['allegations', 'characterized by', 'inherently improbable']]
+
+89. (iii) The power to quash shall not, however, be used to stifle or scuttle a legitimate prosecution.
+[['power to quash', 'purpose', 'stifle or scuttle a legitimate prosecution']]
+
+90. The power should be used sparingly and with abundant caution.
+[]
+
+91. (iv) The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged.
+[['complaint', 'not required to reproduce', 'legal ingredients of the offence alleged']]
+
+92. If the necessary factual foundation is laid in the complaint, merely on the ground that a few ingredients have not been stated in detail, the proceedings should not be quashed.
+[['complaint', 'contains factual foundation', 'proceedings'], ['proceedings', 'should not be', 'quashed']]
+
+93. 15.
+[]
+
+94. Quashing of the complaint is warranted only where the complaint is so bereft of even the basic facts which are absolutely necessary for making out the offence.
+[]
+
+95. (v) A given set of facts may make out :
+[]
+
+96. (a) purely a civil wrong; or
+[['tort', 'subclass of', 'civil wrong']]
+
+97. (b) purely a criminal offence; or
+[]
+
+98. (c) a civil wrong as also a criminal offence.
+[['civil wrong', 'also', 'criminal offence']]
+
+99. 16.
+[]
+
+100. A commercial transaction or a contractual dispute, apart from furnishing a cause of action for seeking remedy in civil law, may also involve a criminal offence.
+[['commercial transaction', 'may involve', 'criminal offence'], ['contractual dispute', 'may involve', 'criminal offence']]
+
+101. As the nature and scope of a civil proceedings are different from a criminal proceeding, the mere fact that the complaint relates to a commercial transaction or breach of contract, for which a civil remedy is available or has been availed, is not by itself a ground to quash the criminal proceedings.
+[['civil proceedings', 'type of proceeding', 'criminal proceeding'], ['civil remedy', 'available for', 'commercial transaction'], ['civil remedy', 'available for', 'breach of contract'], ['criminal proceeding', 'type of proceeding', 'civil proceeding']]
+
+102. The test is whether the allegations in the complaint disclose a criminal offence or not.
+[['allegations', 'disclose', 'criminal offence']]
+
+103. 17.
+[]
+
+104. While on this issue, it is necessary to take notice of a growing tendency in business circles to convert purely civil disputes into criminal cases.
+[['business circles', 'tendency', 'convert purely civil disputes into criminal cases'], ['business circles', 'location', 'this issue']]
+
+105. This is obviously on account of a prevalent impression that civil law remedies are time consuming and do not adequately protect the interests of lenders/creditors.
+[['civil law remedies', 'characteristic', 'time consuming'], ['civil law remedies', 'protect', 'interests of lenders/creditors'], ['interests of lenders/creditors', 'type of entity', 'creditors']]
+
+106. Such a tendency is seen in several family disputes also, leading to irretrievable break down of marriages/families.
+[['family disputes', 'cause of', 'irretrievable break down of marriages/families'], ['family disputes', 'type of', 'several'], ['irretrievable break down of marriages/families', 'result of', 'several family disputes']]
+
+107. 18.
+[]
+
+108. There is also an impression that if a person could somehow be entangled in a criminal prosecution, there is a likelihood of imminent settlement.
+[]
+
+109. Any effort to settle civil disputes and claims, which do not involve any criminal offence, by applying pressure though criminal prosecution should be deprecated and discouraged.
+[['civil disputes and claims', 'type of', 'criminal offence'], ['criminal prosecution', 'method of', 'pressure'], ['criminal prosecution', 'purpose of', 'settle civil disputes and claims']]
+
+110. 19.
+[]
+
+111. In G Sagar Suri vs. State of UP [2000 (2) SCC 636], 2000 Indlaw SC 603 this Court observed :
+[['G Sagar Suri vs. State of UP', 'year of case', '2000'], ['G Sagar Suri vs. State of UP', 'court decision', 'this Court'], ['this Court', 'location', 'SCC 636'], ['SCC 636', 'location', 'Indlaw SC 603']]
+
+112. "It is to be seen if a matter, which is essentially of civil nature, has been given a cloak of criminal offence.
+[['matter', 'essentially of', 'civil nature'], ['matter', 'given a cloak of', 'criminal offence']]
+
+113. Criminal proceedings are not a short cut of other remedies available in law.
+[['Criminal proceedings', 'alternative to', 'other remedies available in law']]
+
+114. Before issuing process a criminal court has to exercise a great deal of caution.
+[]
+
+115. For the accused it is a serious matter.
+[]
+
+116. This Court has laid certain principles on the basis of which High Court is to exercise its jurisdiction u/s.
+[]
+
+117. 482 of the Code.
+[]
+
+118. Jurisdiction under this Section has to be exercised to prevent abuse of the process of any court or otherwise to secure the ends of justice."
+[['Section', 'has jurisdiction under', 'this Section'], ['Section', 'exercises jurisdiction to prevent', 'abuse of the process of any court'], ['Section', 'exercises jurisdiction to secure', 'ends of justice']]
+
+119. 20.
+[]
+
+120. While no one with a legitimate cause or grievance should be prevented from seeking remedies available in criminal law, a complainant who initiates or persists with a prosecution, being fully aware that the criminal proceedings are unwarranted and his remedy lies only in civil law, should himself be made accountable, at the end of such misconceived criminal proceedings, in accordance with law.One positive step that can be taken by the courts, to curb unnecessary prosecutions and harassment of innocent parties, is to exercise their power u/s.
+[['criminal law', 'provides remedy for', 'grievance'], ['complainant', 'initiates prosecution', 'criminal proceedings'], ['complainant', 'aware of unwarranted prosecution', 'criminal proceedings'], ['civil law', 'provides remedy for', 'grievance'], ['complainant', 'should be made accountable', 'law'], ['courts', 'exercise power', 'u/s'], ['courts', 'curb unnecessary prosecutions', 'innocent parties'], ['courts', 'exercise power', 'criminal law']]
+
+121. 250 Cr.PC more frequently, where they discern malice or frivolousness or ulterior motives on the part of the complainant.
+[['250 Cr.PC', 'more frequently used', 'court'], ['court', 'discerns', 'malice'], ['court', 'discerns', 'frivolousness'], ['court', 'discerns', 'ulterior motives'], ['court', 'discerns', 'complainant']]
+
+122. Be that as it may.
+[]
+
+123. 21.
+[]
+
+124. Coming to the facts of this case, it is no doubt true that IOC has initiated several civil proceedings to safeguard its interests and recover the amounts due.
+[['IOC', 'initiated', 'civil proceedings'], ['civil proceedings', 'purpose', 'safeguard its interests'], ['civil proceedings', 'purpose', 'recover the amounts due']]
+
+125. It has filed CS No.425/1997 in the Madras High Court and OS No.3327/1998 in the City Civil Court, Chennai seeking injunctive reliefs to restrain the NEPC India from removing its aircrafts so that it can exercise its right to possess the Aircrafts.
+[['CS No.425/1997', 'filed by', 'It'], ['City Civil Court', 'located in', 'Chennai'], ['NEPC India', 'owns', 'aircrafts'], ['It', 'owns', 'aircrafts']]
+
+126. It has also filed two more suits for recovery of the amounts due to it for the supplies made, that is CS No998/1999 against NEPC India (for recovery of Rs.5,28,23,501/90) and CS No11/2000 against Skyline (for recovery of Rs.13,12,76,421/25), in the Madras High Court.
+[['CS No998/1999', 'filed in', 'Madras High Court'], ['CS No998/1999', 'against', 'NEPC India'], ['CS No998/1999', 'recovery of amount', 'Rs.5,28,23,501/90'], ['CS No11/2000', 'filed in', 'Madras High Court'], ['CS No11/2000', 'against', 'Skyline'], ['CS No11/2000', 'recovery of amount', 'Rs.13,12,76,421/25']]
+
+127. 22.
+[]
+
+128. IOC has also initiated proceedings for winding up NEPC India and filed a petition seeking initiation of proceedings for contempt for alleged disobedience of the orders of temporary injunction.
+[['IOC', 'initiated proceedings for winding up', 'NEPC India'], ['IOC', 'filed a petition seeking initiation of proceedings for contempt', 'NEPC India']]
+
+129. These acts show that civil remedies were and are available in law and IOC has taken recourse to such remedies.
+[['civil remedies', 'available in', 'law'], ['IOC', 'taken recourse to', 'civil remedies']]
+
+130. But it does not follow therefrom that criminal law remedy is barred or IOC is estopped from seeking such remedy.
+[]
+
+131. 23.
+[]
+
+132. The respondents, no doubt, have stated that they had no intention to cheat or dishonestly divert or misappropriate the hypothecated aircraft or any parts thereof.
+[['respondents', 'stated', 'they had no intention to cheat or dishonestly divert or misappropriate the hypothecated aircraft or any parts thereof'], ['respondents', 'intention', 'cheat'], ['respondents', 'intention', 'dishonestly divert or misappropriate the hypothecated aircraft or any parts thereof']]
+
+133. 24.
+[]
+
+134. They have taken pains to point out that the aircrafts are continued to be stationed at Chennai and Coimbatore Airports; that the two engines of VT-NEK though removed from the aircraft, are still lying at Madras Airport; that the two DART 552 TR engines of VT-NEJ were dismantled for the purpose of overhauling/repairing; that they were fitted to another Aircraft (VT- NEH) which had been taken on lease from 'M/s Aircraft Financing and Trading BV' and that the said Aircraft (VT-NEH) has been detained by the lessor for its dues; that the two engines which were meant to be fitted to VT-NEJ (in places of the removed engines),
+[['Chennai', 'contains airport', 'Chennai Airport'], ['Chennai Airport', 'contains aircraft', 'VT-NEK'], ['VT-NEK', 'contains engine', 'VT-NEK engine'], ['VT-NEK engine', 'located at', 'Madras Airport'], ['Madras Airport', 'contains engine', 'VT-NEK engine'], ['Coimbatore', 'contains airport', 'Coimbatore Airport'], ['Coimbatore Airport', 'contains aircraft', 'VT-NEK'], ['VT-NEJ', 'contains engine', 'DART 552 TR engine'], ['DART 552 TR engine', 'located at', 'Madras Airport'], ['Madras Airport', 'contains engine', 'DART 552 TR engine'], ['VT-NEJ', 'contains engine', 'DART 552 TR engine'], ['VT-NEH', 'contains engine', 'DART 552 TR engine'], ['DART 552 TR engine', 'located at', 'VT-NEH'], ['VT-NEH', 'leased from', 'M/s Aircraft Financing and Trading BV'], ['M/s Aircraft Financing and Trading BV', 'owns', 'VT-NEH']]
+
+135. 25.  when sent for overhauling to M/s Hunting Aeromotive, UK, were detained by them on account of a dispute relating to their bills; and that in these peculiar circumstances beyond their control, no dishonest intent could be attributed to them.
+[['M/s Hunting Aeromotive', 'location', 'UK'], ['M/s Hunting Aeromotive', 'detained', 'them'], ['them', 'country of citizenship', 'UK']]
+
+136. But these are defences that will have to be put forth and considered during the trial.
+[]
+
+137. Defences that may be available, or facts/aspects when established during the trial, may lead to acquittal, are not grounds for quashing the complaint at the threshold.
+[['Defences', 'may lead to', 'acquittal'], ['acquittal', 'is a result of', 'Defences'], ['Defences', 'are not grounds for', 'quashing the complaint'], ['quashing the complaint', 'is not a result of', 'Defences'], ['Defences', 'may be available during', 'trial'], ['trial', 'may be held during', 'establishment of facts/aspects']]
+
+138. 26.
+[]
+
+139. At this stage, we are only concerned with the question whether the averments in the complaint spell out the ingredients of a criminal offence or not.
+[]
+
+140. 27.
+[]
+
+141. The High Court was, therefore, justified in rejecting the contention of the respondents that the criminal proceedings should be quashed in view of the pendency of several civil proceedings.
+[]
+
+142. Re : Point No.(ii)
+[]
+
+143. 28.
+[]
+
+144. This takes us to the question whether the allegations made in the complaint, when taken on their face value as true and correct, constitute offences defined under sections 378, 403, 405, 415 and 425 IPCLearned counsel for the appellant restricted his submissions only to sections 405, 415 and 425, thereby fairly conceding that the averments in the complaint do not contain the averments necessary to make out the ingredients of the offence of theft (s 378) or dishonest misappropriation of property (s. 403).
+[['sections 378', 'defined under', 'IPCL'], ['sections 405', 'defined under', 'IPCL'], ['sections 415', 'defined under', 'IPCL'], ['sections 425', 'defined under', 'IPCL'], ['sections 405', 'restricted to', 'sections 415'], ['sections 415', 'restricted to', 'sections 425'], ['sections 378', 'constitute offence', 'sections 405'], ['sections 403', 'constitute offence', 'sections 405'], ['sections 403', 'constitute offence', 'sections 415'], ['sections 403', 'constitute offence', 'sections 425'], ['sections 378', 'constitute offence', 'sections 415'], ['sections 378', 'constitute offence', 'sections 425']]
+
+145. Section 378
+[['Section 378', 'part of', 'legal code']]
+
+146. 29.
+[]
+
+147. S. 378 defines theft.
+[['S. 378', 'defines', 'theft']]
+
+148. It states : "whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent, moves that property in order to such taking, is said to commit theft."
+[['whoever', 'intends to commit', 'theft'], ['theft', 'involves taking', 'movable property'], ['movable property', 'out of possession of', 'any person'], ['any person', 'owns', 'movable property'], ['any person', 'consent', 'theft']]
+
+149. 30.
+[]
+
+150. The averments in the complaint clearly show that neither the aircrafts nor their engines were ever in the possession of IOC.
+[['IOC', 'possesses', 'aircrafts'], ['IOC', 'possesses', 'engines']]
+
+151. It is admitted that they were in the possession of NEPC India at all relevant times.
+[['NEPC India', 'possesses', 'they']]
+
+152. The question of NEPC committing theft of something in its own possession does not arise.
+[['NEPC', 'possesses', 'something']]
+
+153. The appellant has therefore rightly not pressed the matter with reference to s 378.
+[['appellant', 'has', 'pressed the matter']]
+
+154. Section 403
+[['Section 403', 'part of', 'legal code']]
+
+155. 31.
+[]
+
+156. S 403 deals with the offence of dishonest misappropriation of property.
+[['S 403', 'deals with', 'dishonest misappropriation of property']]
+
+157. It provides that "whoever dishonestly misappropriates or converts to his own use any movable property", shall be punished with imprisonment of either description for a term which may extend to 2 years or with fine or both.
+[['movable property', 'type of', 'property'], ['movable property', 'subject of', 'misappropriates'], ['movable property', 'subject of', 'converts to his own use'], ['imprisonment', 'punishment for', 'dishonestly misappropriates or converts to his own use'], ['imprisonment', 'punishment for', 'dishonestly misappropriates or converts to his own use'], ['fine', 'punishment for', 'dishonestly misappropriates or converts to his own use'], ['2 years', 'duration of', 'imprisonment'], ['2 years', 'maximum value of', 'term'], ['dishonestly misappropriates or converts to his own use', 'crime', 'imprisonment'], ['dishonestly misappropriates or converts to his own use', 'crime', 'fine']]
+
+158. The basic requirement for attracting the section are:
+[]
+
+159. "(i) the movable property in question should belong to a person other than the accused;
+[]
+
+160. (ii) the accused should wrongly appropriate or convert such property to his own use; and
+[['such property', 'belong to', 'the accused']]
+
+161. (iii) there should be dishonest intention on the part of the accused."
+[['dishonest intention', 'attribute of', 'accused'], ['accused', 'part of', 'accused'], ['accused', 'has intention', 'dishonest intention']]
+
+162. 32.
+[]
+
+163. Here again the basic requirement is that the subject matter of dishonest misappropriation or conversion should be someone else's movable property.
+[['dishonest misappropriation or conversion', 'subject matter', "someone else's movable property"]]
+
+164. When NEPC India owns/possesses the aircraft, it obviously cannot 'misappropriate or convert to its own use' such aircraft or parts thereof.
+[['NEPC India', 'owns', 'aircraft'], ['aircraft', 'part of', 'parts'], ['aircraft', 'part of', 'aircraft']]
+
+165. Therefore s. 403 is also not attracted.
+[]
+
+166. Section 405
+[['Section 405', 'part of', 'legal document']]
+
+167. 33.
+[]
+
+168. We will next consider whether the allegations in the complaint make out a case of criminal breach of trust u/s.
+[['allegations in the complaint', 'make out a case of', 'criminal breach of trust'], ['criminal breach of trust', 'defined by', 'u/s']]
+
+169. 405 which is extracted below :
+[]
+
+170. "405.
+[]
+
+171. Criminal breach of trust.
+[]
+
+172. Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits "criminal breach of trust".
+[['criminal breach of trust', 'definition', 'dishonestly misappropriates or converts to his own use that property'], ['dishonestly misappropriates or converts to his own use that property', 'action', 'commits criminal breach of trust'], ['criminal breach of trust', 'definition', 'dishonestly uses or disposes of that property in violation of any direction of law'], ['dishonestly uses or disposes of that property in violation of any direction of law', 'action', 'commits criminal breach of trust'], ['criminal breach of trust', 'definition', 'wilfully suffers any other person so to do'], ['wilfully suffers any other person so to do', 'action', 'commits criminal breach of trust'], ['criminal breach of trust', 'definition', 'dishonestly uses or disposes of that property in violation of any legal contract'], ['dishonestly uses or disposes of that property in violation of any legal contract', 'action', 'commits criminal breach of trust'], ['criminal breach of trust', 'definition', 'dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged']]
+
+173. 34.
+[]
+
+174. A careful reading of the section shows that a criminal breach of trust involves the following ingredients:
+[]
+
+175. "(a) a person should have been entrusted with property, or entrusted with dominion over property;
+[]
+
+176. (b) that person should dishonestly misappropriate or convert to his own use that property, or dishonestly use or dispose of that property or willfully suffer any other person to do so;
+[['that person', 'misappropriates', 'property'], ['that person', 'converts to own use', 'property'], ['that person', 'uses or disposes of', 'property'], ['that person', 'suffers other person to do', 'property']]
+
+177. (c) that such misappropriation, conversion,"
+[]
+
+178. 35. use or disposal should be in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract which the person has made, touching the discharge of such trust.
+[['use or disposal', 'should be in violation of', 'direction of law'], ['direction of law', 'prescribes mode', 'discharge of trust'], ['direction of law', 'prescribes mode', 'discharge of trust'], ['direction of law', 'prescribes mode', 'legal contract'], ['legal contract', 'made by', 'person'], ['person', 'has made', 'legal contract'], ['legal contract', 'touches', 'discharge of trust']]
+
+179. 36.
+[]
+
+180. The following are examples (which include the illustrations u/s.
+[['The following are examples', 'contains illustrations', 'u/s']]
+
+181. 405) where there is 'entrustment' :
+[]
+
+182. "(i) An 'Executor' of a will, with reference to the estate of the deceased bequeathed to legatees.
+[['Executor', 'bequeaths to', 'legatees']]
+
+183. (ii) A 'Guardian' with reference to a property of a minor or person of unsound mind.
+[['Guardian', 'refers to', 'property of a minor or person of unsound mind']]
+
+184. (iii) A 'Trustee' holding a property in trust, with reference to the beneficiary.
+[['Trustee', 'holds', 'property'], ['property', 'belong to', 'beneficiary']]
+
+185. (iv) A 'Warehouse Keeper' with reference to the goods stored by a depositor.
+[['Warehouse Keeper', 'role', 'depositor']]
+
+186. (v) A carrier with reference to goods entrusted for transport belonging to the consignor/consignee.
+[['carrier', 'refers to', 'goods']]
+
+187. (vi) A servant or agent with reference to the property of the master or principal.
+[['servant', 'agent of', 'master'], ['servant', 'agent of', 'principal'], ['principal', 'owns property', 'servant']]
+
+188. (vii) A pledgee with reference to the goods pledged by the owner/borrower.
+[['pledgee', 'has reference to', 'goods pledged by the owner/borrower']]
+
+189. (viii) A debtor, with reference to a property held in trust on behalf of the creditor in whose favour he has executed a deed of pledge-cum-trust.
+[['debtor', 'has executed a deed of pledge-cum-trust', 'creditor'], ['creditor', 'property held in trust', 'debtor']]
+
+190. (Under such a deed, the owner pledges his movable property, generally vehicle/machinery to the creditor, thereby delivering possession of the movable property to the creditor and the creditor in turn delivers back the pledged movable property to the debtor, to be held in trust and operated by the debtor)."
+[['owner', 'pledges', 'movable property'], ['creditor', 'receives possession of', 'movable property'], ['creditor', 'returns movable property to', 'debtor'], ['debtor', 'holds movable property in trust', 'creditor'], ['debtor', 'operates movable property', 'creditor']]
+
+191. 37.
+[]
+
+192. In Chelloor Mankkal Narayan Ittiravi Nambudiri v. State of Travancore, Cochin [AIR 1953 SC 478], 1952 Indlaw SC 115 this Court held :
+[['Chelloor Mankkal Narayan Ittiravi Nambudiri', 'v', 'State of Travancore, Cochin'], ['State of Travancore, Cochin', 'reported in', 'AIR 1953 SC 478'], ['State of Travancore, Cochin', 'reported in', 'Indlaw SC 115'], ['State of Travancore, Cochin', 'country', 'India'], ['India', 'contains administrative territorial entity', 'Travancore'], ['Travancore', 'contains administrative territorial entity', 'Cochin']]
+
+193. " to constitute an offence of criminal breach of trust, it is essential that the prosecution must prove first of all that the accused was entrusted with some property or with any dominion or power over it.
+[['property', 'has dominion or power over', 'accused'], ['accused', 'was entrusted with', 'property']]
+
+194. It has to be established further that in respect of the property so entrusted, there was dishonest misappropriation or dishonest conversion or dishonest use or disposal in violation of a direction of law or legal contract, by the accused himself or by someone else which he willingly suffered to do.
+[['dishonest misappropriation', 'type of violation', 'direction of law or legal contract'], ['dishonest conversion', 'type of violation', 'direction of law or legal contract'], ['dishonest use', 'type of violation', 'direction of law or legal contract'], ['dishonest disposal', 'type of violation', 'direction of law or legal contract'], ['dishonest misappropriation', 'committed by', 'accused himself'], ['dishonest conversion', 'committed by', 'someone else'], ['dishonest use', 'committed by', 'someone else'], ['dishonest disposal', 'committed by', 'someone else'], ['dishonest misappropriation', 'suffered by', 'accused himself'], ['dishonest conversion', 'suffered by', 'accused himself'], ['dishonest use', 'suffered by', 'accused himself'], ['dishonest disposal', 'suffered by', 'accused himself']]
+
+195. It follows almost axiomatically from this definition that the ownership or beneficial interest in the property in respect of which criminal breach of trust is alleged to have been committed, must be in some person other than the accused and the latter must hold it on account of some person or in some way for his benefit."
+[['ownership or beneficial interest in the property', 'held by', 'some person other than the accused'], ['some person other than the accused', 'held on account of', 'some person'], ['some person', 'benefited by', 'the accused']]
+
+196. [Emphasis supplied]
+[]
+
+197. 38.
+[]
+
+198. In Jaswantrai Manilal Akhaney v State of Bombay [AIR 1956 SC 575], 1956 Indlaw SC 16 this Court reiterated that the first ingredient to be proved in respect of a criminal breach of trust is 'entrustment'.
+[['Jaswantrai Manilal Akhaney v State of Bombay', 'case', 'AIR 1956 SC 575'], ['Jaswantrai Manilal Akhaney v State of Bombay', 'year', '1956'], ['Jaswantrai Manilal Akhaney v State of Bombay', 'published in', 'Indlaw SC 16'], ['Jaswantrai Manilal Akhaney v State of Bombay', 'court', 'this Court'], ['this Court', 'location', '1956 Indlaw SC 16']]
+
+199. It, however, clarified:
+[]
+
+200. " ..
+[['..', 'is a', 'city'], ['..', 'is the', 'capital'], ['..', 'is located in', 'Europe'], ['Europe', 'contains administrative territorial entity', '..'], ['..', 'is the', 'largest city'], ['..', 'is a', 'municipality']]
+
+201. But when S. 405 which defines "criminal breach of trust" speaks of a person being in any manner entrusted with property, it does not contemplate the creation of a trust with all the technicalities of the law of trust.
+[['S. 405', 'defines', 'criminal breach of trust'], ['criminal breach of trust', 'speaks of', 'person'], ['person', 'entrusted with', 'property']]
+
+202. It contemplates the creation of a relationship whereby the owner of property makes it over to another person to be retained by him until a certain contingency arises or to be disposed of by him on the happening of a certain event."
+[['relationship', 'contemplated by', 'It'], ['It', 'contemplates creation of', 'relationship'], ['relationship', 'involves transfer of property', 'relationship'], ['relationship', 'involves retention of property', 'relationship'], ['relationship', 'involves disposal of property', 'relationship']]
+
+203. 39.
+[]
+
+204. The question is whether there is 'entrustment' in an hypothecation?
+[['hypothecation', 'contains concept', 'entrustment'], ['entrustment', 'concept', 'entrustment']]
+
+205. Hypothecation is a mode of creating a security without delivery of title or possession.
+[['Hypothecation', 'mode of creating security', 'security']]
+
+206. Both ownership of the movable property and possession thereof, remain with the debtor.
+[['debtor', 'owns', 'movable property'], ['debtor', 'possesses', 'movable property']]
+
+207. The creditor has an equitable charge over the property and is given a right to take possession and sell the hypothecated movables to recover his dues (note : we are not expressing any opinion on the question whether possession can be taken by the creditor, without or with recourse to a court of law).
+[['creditor', 'has equitable charge over', 'property'], ['creditor', 'given right to', 'take possession'], ['creditor', 'given right to', 'sell'], ['creditor', 'given right to', 'recover his dues'], ['creditor', 'has right to', 'take possession'], ['creditor', 'has right to', 'sell'], ['creditor', 'has right to', 'recover his dues']]
+
+208. The creditor may also have the right to claim payment from the sale proceeds (if such proceeds are identifiable and available).
+[['creditor', 'may have right to claim payment from', 'sale proceeds'], ['sale proceeds', 'are identifiable and available', 'true'], ['sale proceeds', 'is source of payment', 'creditor']]
+
+209. 40.
+[]
+
+210. The following definitions of the term 'hypothecation' in P Ramanatha Aiyar's Advanced Law Lexicon (Third (2005) Edition, Vol.2, Pages 2179 and 2180) are relevant:
+[]
+
+211. "Hypothecation: It is the act of pledging an asset as security for borrowing, without parting with its possession or ownership.
+[]
+
+212. The borrower enters into an agreement with the lender to hand over the possession of the hypothecated asset whenever called upon to do so.
+[['borrower', 'enters into agreement with', 'lender'], ['borrower', 'hands over possession of', 'hypothecated asset'], ['lender', 'calls upon', 'borrower']]
+
+213. The charge of hypothecation is then converted into that of a pledge and the lender enjoys the rights of a pledgee."
+[['hypothecation', 'converted into', 'pledge'], ['lender', 'enjoys the rights of', 'pledgee']]
+
+214. 41.
+[]
+
+215. 'Hypothecation' means a charge in or upon any movable property, existing in future, created by a borrower in favour of a secured creditor, without delivery of possession of the movable property to such creditor, as a security for financial assistance and includes floating charge and crystallization of such charge into fixed charge on movable property.
+[['Hypothecation', 'means', 'charge in or upon any movable property'], ['charge in or upon any movable property', 'type of', 'Hypothecation'], ['Hypothecation', 'created by', 'borrower'], ['borrower', 'in favour of', 'secured creditor'], ['secured creditor', 'granted', 'charge in or upon any movable property'], ['charge in or upon any movable property', 'security for', 'financial assistance'], ['financial assistance', 'includes', 'floating charge'], ['floating charge', 'includes', 'crystallization of charge into fixed charge'], ['crystallization of charge into fixed charge', 'type of', 'floating charge']]
+
+216. (Borrowed from s. 2(n) of Securitisation and Reconstruction of Financial Assets & Enforcement of Security Interest Act, 2002)"
+[['Securitisation and Reconstruction of Financial Assets & Enforcement of Security Interest Act, 2002', 'section', '2(n)'], ['Securitisation and Reconstruction of Financial Assets & Enforcement of Security Interest Act, 2002', 'country of origin', 'India']]
+
+217. 42.
+[]
+
+218. But there is no 'entrustment of the property' or 'entrustment of dominion over the property' by the hypothecatee (creditor) to the hypothecator (debtor) in an hypothecation.
+[]
+
+219. When possession has remained with the debtor/owner and when the creditor has neither ownership nor beneficial interest, obviously there cannot be any entrustment by the creditor.
+[['debtor/owner', 'has possession', 'creditor'], ['creditor', 'has ownership', 'no'], ['creditor', 'has beneficial interest', 'no']]
+
+220. 43.
+[]
+
+221. The question directly arose for consideration in Central Bureau of Investigation v. Duncans Agro Industries Ltd, Calcutta [1996 (5) SCC 591].
+[['Central Bureau of Investigation v. Duncans Agro Industries Ltd', 'case', 'Central Bureau of Investigation'], ['Central Bureau of Investigation v. Duncans Agro Industries Ltd', 'location', 'Calcutta'], ['Calcutta', 'country', 'India'], ['Calcutta', 'court', 'Supreme Court of India'], ['Supreme Court of India', 'court decision', 'Central Bureau of Investigation v. Duncans Agro Industries Ltd']]
+
+222. 1996 Indlaw SC 2982 It related to a complaint against the accused for offences of criminal breach of trust.
+[['1996 Indlaw SC 2982', 'related to', 'complaint'], ['complaint', 'against', 'accused'], ['accused', 'charged with', 'offences of criminal breach of trust']]
+
+223. It was alleged that a floating charge was created by the accused debtor on the goods by way of security under a deed of hypothecation, in favour of a bank to cover credit facility and that the said goods were disposed of by the debtor.
+[]
+
+224. 44.
+[]
+
+225. It was contended that the disposal of the goods amounted to criminal breach of trust.
+[['goods', 'disposed of', 'trust'], ['trust', 'breached', 'crime'], ['crime', 'type of', 'breach of trust']]
+
+226. Negativing the said contention, this Court after stating the principle as to when a complaint can be quashed at the threshold, held thus:
+[]
+
+227. " .a serious dispute has been raised by the learned counsel as to whether on the face of the allegations, an offence of criminal breach of trust is constituted or not.
+[]
+
+228. In our view, the expression 'entrusted with property' or 'with any dominion over property' has been used in a wide sense in Section 405, I.PC Such expression includes all cases in which goods are entrusted, that is, voluntarily handed over for a specific purpose and dishonestly disposed of in violation of law or in violation of contract.
+[['Section 405, I.PC', 'contains expression', 'entrusted with property'], ['Section 405, I.PC', 'contains expression', 'with any dominion over property'], ['entrusted with property', 'includes', 'all cases'], ['all cases', 'characterized by', 'goods are entrusted'], ['goods are entrusted', 'characterized by', 'voluntarily handed over for a specific purpose'], ['goods are entrusted', 'characterized by', 'dishonestly disposed of in violation of law'], ['goods are entrusted', 'characterized by', 'dishonestly disposed of in violation of contract']]
+
+229. The expression 'entrusted' appearing in Section 405, I.PC is not necessarily a term of law.
+[['Section 405, I.PC', 'contains term', 'entrusted'], ['entrusted', 'term of', 'law']]
+
+230. It has wide and different implications in different contexts.
+[]
+
+231. It is, however, necessary that the ownership or beneficial interest in the ownership of the property entrusted in respect of which offence is alleged to have been committed must be in some person other than the accused and the latter must hold it on account of some person or in some way for his benefit.
+[['property', 'entrusted to', 'some person'], ['some person', 'owns', 'property'], ['some person', 'beneficial interest in', 'property'], ['property', 'held by', 'accused'], ['accused', 'holds on account of', 'some person']]
+
+232. The expression 'trust' in Section 405, I.PC is a comprehensive expression and has been used to denote various kinds of relationship like the relationship of trustee and beneficiary, bailor and bailee, master and servant, pledger and pledgee.
+[['trust', 'denote relationship of', 'trustee and beneficiary'], ['trust', 'denote relationship of', 'bailor and bailee'], ['trust', 'denote relationship of', 'master and servant'], ['trust', 'denote relationship of', 'pledger and pledgee']]
+
+233. When some goods are hypothecated by a person to another person, the ownership of the goods still remains with the person who has hypothecated such goods.
+[['goods', 'hypothecated by', 'person'], ['person', 'owns', 'goods'], ['person', 'hypothecates', 'goods']]
+
+234. The property in respect of which criminal breach of trust can be committed must necessarily be the property of some person other than the accused or the beneficial interest in or ownership of it must be in other person and the offender must hold such property in trust for such other person or for his benefit.
+[['property', 'can be the subject of', 'criminal breach of trust'], ['property', 'belong to', 'person'], ['property', 'belong to', 'accused'], ['property', 'belong to', 'other person'], ['beneficial interest', 'belong to', 'other person'], ['property', 'held in trust for', 'other person'], ['property', 'held in trust for', 'person'], ['offender', 'hold', 'property'], ['offender', 'hold in trust', 'property']]
+
+235. In a case of pledge, the pledged article belongs to some other person but the same is kept in trust by the pledgee.
+[['pledged article', 'belongs to', 'some other person'], ['pledged article', 'kept in trust by', 'pledgee']]
+
+236. In the instant case, a floating charge was made on the goods by way of security to cover up credit facility.
+[['floating charge', 'type of security', 'credit facility']]
+
+237. In our view, in such case for disposing of the goods covering the security against credit facility, the offence of criminal breach of trust is not committed."
+[]
+
+238. (emphasis supplied)
+[]
+
+239. 45.
+[]
+
+240. The allegations in the complaints are that aircrafts and the engines fitted therein belong to NEPC India, and that a charge was created thereon by NEPC India, in favour of IOC, by way of hypothecation to secure repayment of the amounts due to IOC.
+[['aircrafts', 'belong to', 'NEPC India'], ['NEPC India', 'owns', 'aircrafts'], ['NEPC India', 'owns', 'engines']]
+
+241. The terms of hypothecation extracted in the complaint show that the ownership and possession of the aircrafts continued with NEPC India.
+[['NEPC India', 'owns', 'aircrafts'], ['NEPC India', 'possesses', 'aircrafts']]
+
+242. Possession of the aircraft, neither actual nor symbolic, was delivered to IOC.
+[['IOC', 'received possession of', 'aircraft']]
+
+243. NEPC India was entitled to use the aircraft and maintain it in good state of repairs.
+[['NEPC India', 'entitled to use', 'aircraft'], ['NEPC India', 'maintain', 'aircraft']]
+
+244. 46.
+[]
+
+245. IOC was given the right to take possession of the hypothecated aircrafts only in the event of any default as mentioned in the Hypothecation Deed.
+[['IOC', 'given the right to take possession of', 'hypothecated aircrafts'], ['Hypothecation Deed', 'mentions', 'default'], ['IOC', 'given the right to take possession of', 'Hypothecation Deed']]
+
+246. It is not the case of the IOC that it took possession of the aircraft in exercise of the right vested in it under the Deed of Hypothecation.
+[['IOC', 'took possession of', 'aircraft'], ['IOC', 'exercise of right vested in', 'Deed of Hypothecation'], ['Deed of Hypothecation', 'granted right to', 'IOC']]
+
+247. Thus, as the possession of the aircraft remained all along with NEPC India in its capacity as the owner and the Deed of Hypothecation merely created a charge over the aircrafts with a right to take possession in the event of default, it cannot be said that there was either entrustment of the aircrafts or entrustment of the dominion over the aircrafts by IOC to NEPC India.
+[['NEPC India', 'capacity', 'owner'], ['NEPC India', 'possesses', 'aircraft'], ['NEPC India', 'created charge over', 'aircraft'], ['Deed of Hypothecation', 'created charge over', 'aircraft'], ['NEPC India', 'has right to take possession', 'aircraft'], ['IOC', 'entrustment of dominion over', 'aircraft']]
+
+248. The very first requirement of section 405, that is the person accused of criminal breach of trust must have been "entrusted with the property" or "entrusted with any dominion over property" is, therefore, absent.
+[['person accused of criminal breach of trust', 'must have been entrusted with', 'property'], ['property', 'entrusted with', 'person accused of criminal breach of trust'], ['property', 'type of', 'dominion over property']]
+
+249. 47.
+[]
+
+250. Learned counsel for the appellant, however, sought to distinguish the decision in Duncan Agro 1996 Indlaw SC 2982 on two grounds.
+[['Duncan Agro', 'decision in', '1996 Indlaw SC 2982'], ['1996 Indlaw SC 2982', 'cited by', 'appellant'], ['appellant', 'used decision', 'Duncan Agro']]
+
+251. It was pointed out that Duncan Agro 1996 Indlaw SC 2982 itself recognizes that there can be criminal breach of trust where a beneficial interest exists in the other person, and the offender holds the property in trust for such person.
+[['Duncan Agro', 'recognizes', 'criminal breach of trust'], ['criminal breach of trust', 'occurs when', 'beneficial interest exists'], ['beneficial interest exists', 'in the other person', 'Duncan Agro']]
+
+252. It is submitted that when the deed of hypothecation was executed by NEPC India in favour of IOC, the hypothecation created a beneficial interest in the property in favour of IOC, and vis-'-vis such 'beneficial interest' of IOC, the possession of the property by NEPC India was in 'trust'.
+[['NEPC India', 'executed deed of hypothecation in favour of', 'IOC'], ['IOC', 'beneficial interest in', 'property'], ['NEPC India', 'trustee of', 'property'], ['property', 'owned by', 'NEPC India'], ['IOC', 'beneficial interest in', 'property']]
+
+253. In support of this contention, reliance was placed on a decision of the Sind Judicial Commissioner in Gobindram C Motwani v. Emperor : (1938) 39 Cr.LJ 509.
+[['Sind Judicial Commissioner', 'issued decision in', 'Gobindram C Motwani v. Emperor'], ['Gobindram C Motwani v. Emperor', 'decided by', 'Sind Judicial Commissioner'], ['Gobindram C Motwani v. Emperor', 'year of decision', '1938'], ['Gobindram C Motwani v. Emperor', 'case number', '(1938) 39 Cr.LJ 509']]
+
+254. In that case the complaint was that the accused had hypothecated the goods in their shop as collateral security against an advance and had agreed to hold the goods and proceeds thereof in trust and to pay the proceeds as and when received by them.
+[['the accused', 'had hypothecated the goods in their shop as collateral security against an advance', 'an advance'], ['the accused', 'held the goods and proceeds thereof in trust', 'the goods and proceeds thereof'], ['the accused', 'held the goods and proceeds thereof in trust', 'the proceeds thereof'], ['the accused', 'agreed to pay the proceeds as and when received by them', 'the proceeds thereof']]
+
+255. 48.
+[]
+
+256. However, as they did not pay the proceeds, the complaint was that they committed criminal breach of trust.
+[]
+
+257. The Magistrate took the view that as the hypothecated goods were still the property of the accused, they could not commit criminal breach of trust in respect of their own property.
+[['Magistrate', 'took view', 'hypothecated goods'], ['hypothecated goods', 'property of', 'accused'], ['accused', 'property of', 'hypothecated goods'], ['hypothecated goods', 'could not commit criminal breach of trust', 'Magistrate'], ['accused', 'could not commit criminal breach of trust', 'Magistrate']]
+
+258. The Judicial Commissioner did not agree.
+[['Judicial Commissioner', 'opinion', 'did not agree']]
+
+259. He held:
+[]
+
+260. "The test in this case appears to me to be whether the owner of the goods, the accused, created an equitable charge over the goods in their possession when they executed the trust receipt.
+[['owner of the goods', 'is', 'accused'], ['accused', 'created', 'equitable charge over the goods'], ['accused', 'possesses', 'goods'], ['accused', 'executed', 'trust receipt']]
+
+261. If they did so, they held the goods as trustees, they were "in some manner entrusted" with the goods, and if they dealt with them in violation of the terms of the trust, they committed an offence under this section, provided they had the necessary criminal intent.
+[['goods', 'held as', 'trustees'], ['goods', 'entrusted to', 'them'], ['them', 'dealt with', 'goods'], ['them', 'committed an offence under', 'this section'], ['this section', 'requires', 'criminal intent']]
+
+262. I can myself see no reason why it should be said that by this trust receipt the accused did not give a beneficial interest in the goods to the applicant and did not hold the goods, with which they were entrusted as legal owners in trust for the applicant.
+[['accused', 'did not give beneficial interest in', 'applicant'], ['accused', 'did not hold', 'goods'], ['accused', 'held goods in trust for', 'applicant']]
+
+263. That being so, I think the learned Magistrate was wrong in his decision that the accused could not be guilty of criminal breach of trust because the goods were their own property."
+[['Magistrate', 'made decision', 'the accused could not be guilty of criminal breach of trust'], ['the accused could not be guilty of criminal breach of trust', 'based on', 'the goods were their own property']]
+
+264. 49.
+[]
+
+265. It is evident that the said observations were made on the peculiar facts of that case where the Commissioner concluded that the goods were held by the accused in trust as trustee in view of execution of a 'Trust Receipt' by the accused.
+[['Trust Receipt', 'type of document', 'Trust'], ['Trust Receipt', 'created by', 'accused'], ['accused', 'held goods in trust', 'goods'], ['accused', 'role', 'trustee']]
+
+266. 50.
+[]
+
+267. The facts were somewhat similar to example (viii) in Para 17 above.
+[['example', 'mentioned in', 'Para 17'], ['Para 17', 'contains example', 'example'], ['example', 'similar to', 'facts']]
+
+268. Further the Judicial Commissioner finally observed that there was so much room for an honest difference of opinion as to the rights and liabilities of the parties to the trust receipt that no useful purpose could be served in interfering with the order of discharge by the Magistrate.
+[['Judicial Commissioner', 'made observation', 'there was so much room for an honest difference of opinion'], ['there was so much room for an honest difference of opinion', 'concerned', 'rights and liabilities of the parties to the trust receipt'], ['rights and liabilities of the parties to the trust receipt', 'concerned', 'trust receipt'], ['trust receipt', 'type of', 'document'], ['trust receipt', 'issued by', 'Magistrate'], ['Magistrate', 'issued order of discharge', 'order of discharge'], ['order of discharge', 'concerned', 'parties to the trust receipt']]
+
+269. The said decision is therefore of no assistance to the appellant.
+[['The said decision', 'is of no assistance to', 'the appellant']]
+
+270. 51.
+[]
+
+271. If the observations relied on by the appellant are to be interpreted as holding that the debtor holds the hypothecated goods, in trust for the creditor, then they are contrary to the decision of this Court in Duncan Agro 1996 Indlaw SC 2982 (supra) which specifically holds that when goods are hypothecated, the owner does not hold the goods in trust for the creditor.
+[['Duncan Agro', 'case number', '1996 Indlaw SC 2982'], ['Duncan Agro', 'decision', 'owner does not hold the goods in trust for the creditor'], ['Duncan Agro', 'cited by', 'this Court'], ['this Court', 'decision', 'owner does not hold the goods in trust for the creditor']]
+
+272. 52.
+[]
+
+273. A charge over the hypothecated goods in favour of the creditor, cannot be said to create a beneficial interest in the creditor, until and unless the creditor in exercise of his rights under the deed, takes possession.
+[['hypothecated goods', 'subject of charge', 'creditor'], ['creditor', 'takes possession of', 'hypothecated goods'], ['creditor', 'beneficial interest in', 'hypothecated goods']]
+
+274. 53.
+[]
+
+275. The term 'beneficial interest' has a specific meaning and connotation.
+[['beneficial interest', 'has meaning', 'specific'], ['beneficial interest', 'has connotation', 'specific']]
+
+276. When a trust is created vesting a property in the trustee, the right of the beneficiary against the trustee (who is the owner of the trust property) is known as the 'beneficial interest'.
+[['trust', 'creates', 'beneficial interest'], ['beneficial interest', 'held by', 'beneficiary'], ['trustee', 'owns', 'trust property'], ['trust property', 'held by', 'trustee']]
+
+277. The trustee has the power of management and the beneficiary has the right of enjoyment.
+[['trustee', 'has power of', 'management'], ['beneficiary', 'has right of', 'enjoyment']]
+
+278. Whenever there is a breach of any duty imposed on the trustee with reference to the trust property or the beneficiary, he commits a breach of trust.
+[['trustee', 'breaches duty', 'trust'], ['trustee', 'manages', 'trust property'], ['trustee', 'benefits', 'beneficiary']]
+
+279. 54.
+[]
+
+280. On the other hand, when the owner of a goods hypothecates a movable property in favour of a creditor, no 'beneficial interest' is created in favour of the creditor nor does the owner become a trustee in regard to the property hypothecated.
+[['goods', 'hypothecated by', 'owner'], ['owner', 'grants beneficial interest', 'creditor'], ['creditor', 'grants beneficial interest', 'none'], ['owner', 'becomes trustee', 'none']]
+
+281. The right of the creditor under a deed of hypothecation is the right to enforce the charge created under the deed of hypothecation in the manner specified in the deed and by no stretch of imagination can such right be equated to a beneficial interest of a beneficiary in a property held in trust.
+[['deed of hypothecation', 'creates charge', 'deed of hypothecation'], ['deed of hypothecation', 'specifies manner of enforcement', 'deed of hypothecation'], ['deed of hypothecation', 'grants right to creditor', 'creditor'], ['creditor', 'has right', 'deed of hypothecation'], ['beneficiary', 'has beneficial interest', 'property'], ['property', 'held in trust', 'beneficiary']]
+
+282. Therefore, the first contention that a creditor has a beneficial interest in the hypothecated property and the owner is in the position of a trustee with reference to the creditor is liable to be rejected.
+[]
+
+283. 55.
+[]
+
+284. The second ground on which learned counsel for the appellant sought to distinguish Duncan Agro 1996 Indlaw SC 2982 is that the said case dealt with a hypothecation deed creating a floating charge, whereas the case on hand related to a fixed charge and therefore, the principle laid down in Duncan Agro 1996 Indlaw SC 2982 will not apply.
+[['Duncan Agro 1996 Indlaw SC 2982', 'dealt with', 'hypothecation deed'], ['Duncan Agro 1996 Indlaw SC 2982', 'laid down principle', 'principle'], ['Duncan Agro 1996 Indlaw SC 2982', 'case', 'appellant'], ['case on hand', 'related to', 'fixed charge'], ['fixed charge', 'subclass of', 'charge'], ['hypothecation deed', 'subclass of', 'deed']]
+
+285. 56.
+[]
+
+286. This contention is also without basis.
+[]
+
+287. The principle stated in Duncan Agro 1996 Indlaw SC 2982 will apply in regard to all types of hypothecations.
+[['Duncan Agro', 'year of decision', '1996'], ['Duncan Agro', 'case number', 'Indlaw SC 2982'], ['Duncan Agro', 'stated principle applies to', 'all types of hypothecations']]
+
+288. It makes no difference whether the charge created by the deed of hypothecation is a floating charge or a fixed charge.
+[['deed of hypothecation', 'creates charge', 'floating charge'], ['floating charge', 'subclass of', 'charge'], ['floating charge', 'subclass of', 'charge'], ['deed of hypothecation', 'creates charge', 'fixed charge'], ['fixed charge', 'subclass of', 'charge']]
+
+289. Where a specific existing property is hypothecated what is created is a 'fixed' charge.
+[['specific existing property', 'hypothecated', 'fixed charge']]
+
+290. The floating charge refers to a charge created generally against the assets held by the debtor at any given point of time during the subsistence of the deed of hypothecation.
+[['floating charge', 'type of', 'charge'], ['charge', 'created by', 'deed of hypothecation'], ['deed of hypothecation', 'creates', 'charge'], ['deed of hypothecation', 'relates to', 'debtor'], ['debtor', 'holds', 'assets']]
+
+291. For example where a borrower hypothecates his stock-in-trade in favour of the Bank creating a floating charge, the stock-in-trade, held by the borrower as on the date of hypothecation may be sold or disposed of by the debtor without reference to the creditor.
+[['stock-in-trade', 'hypothecated by', 'borrower'], ['borrower', 'has', 'stock-in-trade'], ['borrower', 'creates floating charge in favour of', 'Bank'], ['Bank', 'has floating charge on', 'stock-in-trade']]
+
+292. 57.
+[]
+
+293. But as and when new stock-in-trade is manufactured or received, the charge attaches to such future stock- in-trade until it is disposed of.
+[['charge', 'attaches to', 'future stock-in-trade'], ['future stock-in-trade', 'is manufactured or received', 'new stock-in-trade'], ['future stock-in-trade', 'is disposed of', 'charge']]
+
+294. The creditor has the right at any given point of time to exercise his right by converting the hypothecation into a pledge by taking possession of the stock-in-trade held by the debtor at that point of time.
+[['creditor', 'has right', 'exercise'], ['creditor', 'has right', 'convert'], ['creditor', 'takes possession of', 'stock-in-trade'], ['debtor', 'holds', 'stock-in-trade']]
+
+295. The principle in Duncan Agro 1996 Indlaw SC 2982 is based on the requirement of 'entrustment' and not with reference to the 'floating' nature of the charge.
+[['Duncan Agro', 'year of case', '1996'], ['Duncan Agro', 'case number', 'Indlaw SC 2982'], ['Duncan Agro', 'case principle based on', 'entrustment']]
+
+296. The second contention also has no merit.
+[]
+
+297. 58.
+[]
+
+298. We accordingly hold that the basic and very first ingredient of criminal breach of trust, that is entrustment, is missing and therefore, even if all the allegations in the complaint are taken at their face value as true, no case of 'criminal breach of trust' as defined u/s.
+[['criminal breach of trust', 'ingredient', 'entrustment'], ['entrustment', 'missing', 'criminal breach of trust'], ['criminal breach of trust', 'defined by', 'u/s']]
+
+299. 405 IPC can be made out against NEPC India.
+[['405 IPC', 'can be made out against', 'NEPC India']]
+
+300. Section 415
+[['Section 415', 'part of', 'legal code']]
+
+301. The essential ingredients of the offence of 'cheating' are:
+[]
+
+302. (i) deception of a person either by making a false or misleading representation or by other action or omission
+[['deception of a person', 'characterized by', 'false or misleading representation'], ['deception of a person', 'characterized by', 'other action or omission']]
+
+303. (ii) fraudulent or dishonest inducement of that person to either deliver any property or to consent to the retention thereof by any person or to intentionally induce that person to do or omit to do anything which he would not do or omit if he were not so deceived and which act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation or property.
+[['fraudulent or dishonest inducement', 'cause of damage', 'body'], ['fraudulent or dishonest inducement', 'cause of damage', 'mind'], ['fraudulent or dishonest inducement', 'cause of damage', 'reputation'], ['fraudulent or dishonest inducement', 'cause of damage', 'property']]
+
+304. 59.
+[]
+
+305. The High Court has held that mere breach of a contractual terms would not amount to cheating unless fraudulent or dishonest intention is shown right at the beginning of the transaction and in the absence of an allegation that the accused had a fraudulent or dishonest intention while making a promise, there is no 'cheating'.
+[['High Court', 'has held that', 'mere breach of a contractual terms'], ['High Court', 'would not amount to', 'cheating'], ['cheating', 'requires', 'fraudulent or dishonest intention'], ['fraudulent or dishonest intention', 'must be shown', 'at the beginning of the transaction'], ['transaction', 'requires', 'fraudulent or dishonest intention'], ['absence of', 'fraudulent or dishonest intention', 'makes cheating not exist']]
+
+306. The High Court has relied on several decisions of this Court wherein this Court has held that dishonest intent at the time of making the promise/inducement is necessary, in addition to the subsequent failure to fulfil the promise.
+[['The High Court', 'relied on', 'several decisions of this Court'], ['this Court', 'held that', 'dishonest intent at the time of making the promise/inducement is necessary'], ['this Court', 'held that', 'subsequent failure to fulfil the promise is necessary']]
+
+307. Illustrations (f) and (g) to s. 415 makes this position clear:
+[]
+
+308. "(f) A intentionally deceives Z into a belief that A means to repay any money that Z may lend to him and thereby dishonestly induces Z to lend him money, A not intending to repay it.
+[['A', 'intentionally deceives', 'Z'], ['A', 'means to repay', 'money'], ['A', 'induces', 'Z'], ['Z', 'lends', 'A'], ['A', 'not intending to repay', 'money']]
+
+309. A cheats."
+[]
+
+310. "(g).
+[]
+
+311. A intentionally deceives Z into a belief that A means to deliver to Z a certain quantity of indigo plant which he does not intend to deliver, and thereby dishonestly induces Z to advance money upon the faith of such delivery.
+[['A', 'deceives', 'Z'], ['A', 'intends to deliver', 'indigo plant'], ['A', 'does not intend to deliver', 'indigo plant'], ['A', 'induces', 'Z'], ['Z', 'advances money', 'A'], ['Z', 'advances money', 'on the faith of delivery of indigo plant']]
+
+312. A cheats; but if A, at the time of obtaining the money, intends to deliver the indigo plant, and afterwards breaks his contact and does not deliver it, he does not cheat, but is liable only to a civil action for breach of contract."
+[['A', 'intends to deliver', 'indigo plant'], ['A', 'breaks contract', 'indigo plant'], ['A', 'liable for', 'civil action'], ['A', 'liable for', 'breach of contract']]
+
+313. In Rajesh Bajaj 1999 Indlaw SC 447 (supra), this Court held:
+[['Rajesh Bajaj', 'year of case', '1999'], ['Rajesh Bajaj', 'case reference', 'Indlaw SC 447'], ['Rajesh Bajaj', 'case reference', 'supra']]
+
+314. "It is not necessary that a complainant should verbatim reproduce in the body of his complaint all the ingredients of the offence he is alleging.
+[]
+
+315. Nor is it necessary that the complainant should state in so many words that the intention of the accused was dishonest or fraudulent.
+[['complainant', 'requirement', 'statement'], ['accused', 'intention', 'dishonest or fraudulent'], ['complainant', 'requirement', 'statement of intention']]
+
+316. ..
+[['The', 'is a', 'article'], ['The', 'is a', 'definite article'], ['definite article', 'subclass of', 'article'], ['article', 'is a', 'noun'], ['noun', 'is a', 'part of speech'], ['part of speech', 'subclass of', 'linguistic category'], ['linguistic category', 'is a', 'category'], ['category', 'is a', 'classification'], ['classification', 'is a', 'way of grouping'], ['way of grouping', 'is a', 'method of organization'], ['method of organization', 'is a', 'process'], ['process', 'is a', 'action'], ['action', 'is a', 'event'], ['event', 'is a', 'occurrence'], ['occurrence', 'is a', 'happening'], ['happening', 'is a', 'situation'], ['situation', 'is a', 'circumstance'], ['circumstance', 'is a', 'condition'], ['condition', 'is a', 'state'], ['state', 'is a', 'status'], ['status', 'is a', 'position'], ['position', 'is a', 'location']]
+
+317. The crux of the postulate is the intention of the person who induces the victim of his representation and not the nature of the transaction which would become decisive in discerning whether there was commission of offence or not.
+[['person', 'induces victim of representation', 'person'], ['person', 'induces representation', 'person'], ['person', 'intends to commit offence', 'person'], ['person', 'commits offence', 'person']]
+
+318. The complainant has stated in the body of the complaint that he was induced to believe that respondent would honour payment on receipt of invoices, and that the complainant realised later that the intentions of the respondent were not clear.
+[['complainant', 'stated', 'body of the complaint'], ['complainant', 'believe', 'respondent'], ['respondent', 'intention', 'honour payment'], ['respondent', 'intention', 'clear']]
+
+319. He also mentioned that respondent after receiving the goods have sold them to others and still he did not pay the money.
+[]
+
+320. Such averments would prima facie make out a case for investigation by the authorities."
+[['Such averments', 'would prima facie make out a case for', 'investigation by the authorities']]
+
+321. In Hridaya Ranjan Prasad Verma 2000 Indlaw SC 248 (supra), this Court held :
+[['Hridaya Ranjan Prasad Verma', 'year of case', '2000'], ['Hridaya Ranjan Prasad Verma', 'case reference', 'Indlaw SC 248'], ['Hridaya Ranjan Prasad Verma', 'case reference', 'supra']]
+
+322. "On a reading of the section it is manifest that in the definition there are set forth two separate classes of acts which the person deceived may be induced to do.
+[['section', 'contains definition', 'definition'], ['definition', 'contains classes of acts', 'classes of acts'], ['classes of acts', 'type of act', 'acts'], ['definition', 'contains separate classes of acts', 'classes of acts']]
+
+323. In the first place he may be induced fraudulently or dishonestly to deliver any property to any person.
+[['he', 'may be induced fraudulently or dishonestly to deliver any property to', 'any person'], ['any person', 'recipient of', 'property'], ['property', 'type of', 'any property']]
+
+324. The second class of acts set forth in the section is the doing or omitting to do anything which the person deceived would not do or omit to do if he were not so deceived.
+[['person deceived', 'would not do', 'anything'], ['person deceived', 'would not omit to do', 'anything'], ['person deceived', 'would be', 'not deceived']]
+
+325. In the first class of cases the inducing must be fraudulent or dishonest.
+[['inducing', 'must be', 'fraudulent or dishonest']]
+
+326. In the second class of acts, the inducing must be intentional but not fraudulent or dishonest.
+[['acts', 'second class of', 'acts'], ['inducing', 'must be intentional', 'acts'], ['inducing', 'must not be', 'fraudulent or dishonest']]
+
+327. In determining the question it has to be kept in mind that the distinction between mere breach of contract and the offence of cheating is a fine one.
+[['distinction', 'between', 'mere breach of contract and the offence of cheating'], ['distinction', 'is a fine one', 'between mere breach of contract and the offence of cheating']]
+
+328. It depends upon the intention of the accused at the time to inducement which may be judged by his subsequent conduct but for this subsequent conduct is not the sole test.
+[['accused', 'intention', 'inducement'], ['inducement', 'judged by', 'subsequent conduct'], ['subsequent conduct', 'test', 'sole test']]
+
+329. Mere breach of contract cannot give rise to criminal prosecution for cheating unless fraudulent or dishonest intention is shown right at the beginning of the transaction, that is the time when the offence is said to have been committed.
+[['breach of contract', 'cannot give rise to', 'criminal prosecution for cheating'], ['criminal prosecution for cheating', 'requires', 'fraudulent or dishonest intention'], ['fraudulent or dishonest intention', 'must be shown at', 'the beginning of the transaction']]
+
+330. Therefore it is the intention which is the gist of the offence.
+[['intention', 'is the gist of', 'offence']]
+
+331. To hold a person guilty of cheating it is necessary to show that he had fraudulent or dishonest intention at the time of making the promise.
+[['person', 'can be guilty of', 'cheating'], ['person', 'has intention', 'fraudulent or dishonest intention'], ['person', 'makes promise at', 'time of making the promise']]
+
+332. From his mere failure to keep up promise subsequently such a culpable intention right at the beginning, that is, when he made the promise cannot be presumed."
+[]
+
+333. 60.
+[]
+
+334. In this case, the complaints clearly allege that the accused with fraudulent intention to cheat and defraud the IOC, had induced IOC to resume supply of aircraft fuel on cash and carry basis, by entering into a further agreement dated 2091997 and undertaking to clear the outstanding amount of Rs18 crores approximately within the time stipulated in the Hypothecation Agreements.
+[['IOC', 'resumed supply of', 'aircraft fuel'], ['aircraft fuel', 'payment method', 'cash and carry basis'], ['aircraft fuel', 'payment method', 'cash'], ['aircraft fuel', 'payment method', 'carry basis'], ['IOC', 'party to agreement', 'further agreement'], ['further agreement', 'date', '2091997'], ['further agreement', 'party to agreement', 'accused'], ['accused', 'undertaking', 'clear outstanding amount'], ['accused', 'undertaking', 'clear Rs18 crores'], ['Hypothecation Agreements', 'contain', 'time stipulated']]
+
+335. 61.
+[]
+
+336. The sum and substance of the said allegation read with other averments extracted above, is that NEPC India, having committed default in paying the sum of Rs18 crores, entered into a fresh agreement dated 2091997 agreeing to clear the outstanding as per a fresh schedule, with the dishonest and fraudulent intention of pre-empting and avoiding any action by IOC in terms of the hypothecation deeds to take possession of the aircrafts.
+[['NEPC India', 'committed default in paying', 'Rs18 crores'], ['NEPC India', 'entered into agreement', '2091997'], ['NEPC India', 'intention', 'pre-empting and avoiding any action'], ['NEPC India', 'intention', 'fraudulent'], ['NEPC India', 'intention', 'dishonest'], ['NEPC India', 'intention', 'avoiding any action'], ['NEPC India', 'intention', 'pre-empting'], ['NEPC India', 'intention', 'by IOC'], ['NEPC India', 'intention', 'in terms of the hypothecation deeds'], ['NEPC India', 'intention', 'to take possession of the aircrafts']]
+
+337. Though the supplies after 2091997 were on cash and carry basis, the fraudulent intention is alleged to emanate from the promise under the said agreement to make payment, thereby preventing immediate seizure (taking possession) of the aircrafts by IOC.
+[['supplies', 'basis', 'cash and carry'], ['agreement', 'contains promise', 'payment'], ['agreement', 'contains promise', 'make payment'], ['payment', 'prevents', 'immediate seizure'], ['immediate seizure', 'action taken by', 'IOC'], ['IOC', 'owns', 'aircrafts']]
+
+338. 62.
+[]
+
+339. This allegation made in addition to the allegation relating to removal of engines, has been lost sight of by the High Court.
+[['allegation', 'made in addition to', 'allegation'], ['allegation', 'relating to', 'removal of engines'], ['High Court', 'lost sight of', 'allegation']]
+
+340. All that is to be seen is whether the necessary allegations exist in the complaint to bring the case within s. 415.
+[['s. 415', 'contains legal provision', 'case'], ['case', 'within legal provision', 's. 415'], ['complaint', 'contains allegations', 'case']]
+
+341. We are clearly of the view that the allegations in the complaint constitute such an offence.
+[['allegations', 'constitute', 'offence'], ['complaint', 'contains', 'allegations']]
+
+342. We are not concerned with the proof of such allegations or ultimate outcome of trial at this stage.
+[]
+
+343. Section 425
+[['Section 425', 'part of', 'legal code']]
+
+344. S. 425 IPC provides :
+[]
+
+345. "Whoever, with intent to cause, or knowing that he is likely to cause, wrongful loss or damage to the public or to any person, causes the destruction of any property, or any such change in any property or in the situation thereof as destroys or diminishes its value or utility, or affects it injuriously, commits "mischief".
+[['mischief', 'definition', 'wrongful loss or damage'], ['mischief', 'causes', 'destruction of any property'], ['mischief', 'causes', 'change in any property'], ['mischief', 'causes', 'change in the situation of property'], ['mischief', 'affects', 'property'], ['mischief', 'affects', 'value of property'], ['mischief', 'affects', 'utility of property']]
+
+346. The three ingredients of the Section are :
+[]
+
+347. (i) intention to cause or knowledge that he is likely to cause wrongful loss or damage to the public or to any person;
+[['wrongful loss or damage', 'type of', 'public'], ['wrongful loss or damage', 'type of', 'person']]
+
+348. (ii) causing destruction of some property or any change in the property or in the situation thereof; and
+[]
+
+349. (iii) the change so made destroying or diminishing the value or utility or affecting it injuriously.
+[['change', 'affects negatively', 'value'], ['change', 'affects negatively', 'utility']]
+
+350. For the purpose of section 425, ownership or possession of the property are not relevant.
+[['section 425', 'contains provision', 'ownership or possession of the property']]
+
+351. Even if the property belongs to the accused himself, if the ingredients are made out, mischief is committed, as is evident from illustrations (d) and (e) to s. 425.
+[['s. 425', 'contains illustration', 'illustration (d)'], ['s. 425', 'contains illustration', 'illustration (e)'], ['mischief', 'committed by', 'the accused'], ['mischief', 'committed by', 'the accused himself']]
+
+352. The complaints clearly allege that NEPC India removed the engines thereby making a change in the aircrafts and that such removal has diminished the value and utility of the aircrafts and affected them injuriously, thereby causing loss and damage to IOC, which has the right to possess the entire aircraft.
+[['NEPC India', 'removed', 'engines'], ['NEPC India', 'made change in', 'aircrafts'], ['aircrafts', 'owned by', 'IOC'], ['IOC', 'has right to possess', 'aircrafts'], ['aircrafts', 'value and utility diminished', 'NEPC India'], ['NEPC India', 'caused loss and damage to', 'IOC']]
+
+353. The allegations clearly constitute the offence of 'mischief'.
+[['The allegations', 'constitute the offence', 'mischief']]
+
+354. Here again, we are not concerned with the proof or ultimate decision."
+[]
+
+355. Conclusion:
+[]
+
+356. 63.
+[]
+
+357. In view of the above discussion, we find that the High Court was not justified in quashing the complaints/criminal proceedings in entirety.
+[['High Court', 'quashed', 'complaints/criminal proceedings']]
+
+358. The allegations in the complaint are sufficient to constitute offences u/ss.
+[]
+
+359. 415 and 425 of IPC.
+[['415', 'part of', 'IPC'], ['425', 'part of', 'IPC']]
+
+360. 64.
+[]
+
+361. We accordingly allow these appeals in part and set aside the order of the High Court insofar it quashes the complaint u/ss.
+[['High Court', 'issued order', 'order of the High Court'], ['order of the High Court', 'quashes', 'complaint u/ss']]
+
+362. 415 and 425.
+[['415', 'equal to', '425']]
+
+363. As a consequence, the Judicial Magistrate, Coimbatore and the Judicial Magistrate, Alandur before whom the matters were pending, shall proceed with the matters in accordance with law in regard to the complaints filed by IOC in so far as offences u/ss.
+[['Judicial Magistrate, Coimbatore', 'located in the administrative territorial entity', 'Coimbatore'], ['Judicial Magistrate, Alandur', 'located in the administrative territorial entity', 'Alandur'], ['Judicial Magistrate, Coimbatore', 'type of court', 'Judicial Magistrate'], ['Judicial Magistrate, Alandur', 'type of court', 'Judicial Magistrate'], ['Judicial Magistrate', 'type of court', 'Court'], ['Judicial Magistrate, Coimbatore', 'proceeds with', 'matters'], ['Judicial Magistrate, Alandur', 'proceeds with', 'matters'], ['matters', 'filed by', 'IOC'], ['IOC', 'type of organization', 'IOC']]
+
+364. 415 and 425 of IPC.
+[['415', 'part of', 'IPC'], ['425', 'part of', 'IPC']]
+
+365. Parties to bear their respective costs.
+[['parties', 'bear costs', 'respective costs']]
+
+366. Appeals allowed.
+[]

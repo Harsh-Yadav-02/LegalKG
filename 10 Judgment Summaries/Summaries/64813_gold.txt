@@ -1,0 +1,23 @@
+The plaintiff holds a patent for the drug Erlotinib.
+The defendant is accused of infringing the patent by manufacturing, offering for sale, selling and exporting the drug.
+The plaintiff seeks an ad interim injunction to restrain the defendant from these activities.
+The parties filed their pleadings and supporting documents in the suit and interlocutory proceedings.
+The application was heard and disposed of.
+Is the plaintiff entitled to an ad interim injunction?
+Is the defendant's claim that the patent is not valid credible?
+Is the defendant's product a life-saving drug?
+The plaintiff argues that Erlotinib is a new compound, not a derivative of a known substance, and therefore is patentable under Section 3(d) of the Patents Act.
+The plaintiff denies the defendant's claim of evergreening and argues that the patent is only being challenged in India.
+The plaintiff argues that the defendant cannot claim their products are new and invented goods by reverse engineering.
+The plaintiff argues that the defendant's claim that the specification contains irrelevant and misleading information is unmerited.
+The plaintiff argues that they did not deliberately withhold any material information and were not allowed to amend the specification of their patent claim.
+The defendant argues that the patent was wrongly granted and is liable to be revoked because of obviousness and lack of inventive step.
+The defendant argues that the plaintiff's test of efficacy has to be satisfied on the basis of the date of filing of the patent and no material of a later date can be entertained to prove efficacy.
+The defendant argues that the plaintiff's product is not significantly different in efficacy compared to the prior art and therefore is not patentable under Section 3(d) of the Patents Act.
+The defendant argues that the plaintiff's action is based on a recent patent and is wrongly granted.
+The defendant argues that the plaintiff's claim does not sufficiently describe the inventive step, a vital precondition for the grant of a valid patent.
+The defendant argues that the defendant has a right to seek revocation of the patent under Section 64 of the Patents Act.
+The defendant argues that the defendant's product Erlotinib is a life-saving drug and an injunction would deny access to the general public.
+The court held that the plaintiff is not entitled to claim an ad interim injunction in the terms sought.
+The defendant's claim that the patent is not valid is credible and the defendant's product is a life-saving drug.
+The court dismissed IA 642/2008, subject to the directions in the preceding paragraph.

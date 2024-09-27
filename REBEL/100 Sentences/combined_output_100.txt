@@ -1,0 +1,299 @@
+1. Spodnje Hoče () is a settlement in and the administrative centre of the Municipality of Hoče–Slivnica in northeastern Slovenia
+[['Spodnje Hoče', 'located in the administrative territorial entity', 'Municipality of Hoče–Slivnica'], ['Municipality of Hoče–Slivnica', 'contains settlement', 'Spodnje Hoče'], ['Municipality of Hoče–Slivnica', 'country', 'Slovenia'], ['Slovenia', 'contains administrative territorial entity', 'Municipality of Hoče–Slivnica']]
+
+2. Herbert Blankenhorn (15 December 1904 in Mülhausen – 10 August 1991 in Badenweiler) was a German diplomat
+[['Herbert Blankenhorn', 'date of birth', '15 December 1904'], ['Herbert Blankenhorn', 'place of birth', 'Mülhausen'], ['Herbert Blankenhorn', 'date of death', '10 August 1991'], ['Herbert Blankenhorn', 'place of death', 'Badenweiler'], ['Herbert Blankenhorn', 'instance of', 'German'], ['German', 'occupation', 'diplomat']]
+
+3. Operation Dragon Strike was a NATO counter-insurgent mission in Kandahar province, Afghanistan, against Taliban forces, which started on September 15, 2010
+[['Operation Dragon Strike', 'location', 'Kandahar province'], ['Operation Dragon Strike', 'start time', 'September 15, 2010'], ['Kandahar province', 'country', 'Afghanistan'], ['Afghanistan', 'contains administrative territorial entity', 'Kandahar province']]
+
+4. Saleem Safi (Urdu, ) is a Pakistani journalist, columnist, defence analyst and current affairs TV talk show anchorperson
+[['Saleem Safi', 'country of citizenship', 'Pakistan'], ['Urdu', 'country', 'Pakistan'], ['Pakistan', 'language used', 'Urdu'], ['journalist', 'occupation', 'Saleem Safi'], ['columnist', 'subclass of', 'journalist'], ['defence analyst', 'subclass of', 'Saleem Safi'], ['Saleem Safi', 'occupation', 'defence analyst'], ['Saleem Safi', 'occupation', 'current affairs TV talk show anchorperson']]
+
+5. Los Trancos Creek (meaning "barriers" or "cattle guards" from the Spanish "Las Trancas") is a creek that flows northerly from Monte Bello Ridge on the northeast slope of the Santa Cruz Mountains to its confluence with San Francisquito Creek at Stanford University in California, United States
+[['Los Trancos Creek', 'mouth of the watercourse', 'San Francisquito Creek'], ['Monte Bello Ridge', 'mountain range', 'Santa Cruz Mountains'], ['Monte Bello Ridge', 'located in the administrative territorial entity', 'California'], ['California', 'country', 'United States'], ['Los Trancos Creek', 'located in the administrative territorial entity', 'northerly'], ['Santa Cruz Mountains', 'located in the administrative territorial entity', 'northeast']]
+
+6. Peter Sainthill (8 July 1593 – 12 August 1648) of Bradninch in Devon, England, was twice elected a Member of Parliament for Tiverton in Devon, in the Short Parliament 1640 and in the Long Parliament in November 1640
+[['Peter Sainthill', 'date of birth', '8 July 1593'], ['Peter Sainthill', 'located in present-day administrative territorial entity', 'Bradninch'], ['Peter Sainthill', 'country', 'England'], ['England', 'country', 'Devon'], ['Devon', 'contains settlement', 'Bradninch'], ['Peter Sainthill', 'member of', 'Short Parliament'], ['Short Parliament', 'inception', '1640'], ['Short Parliament', 'location', 'Devon'], ['Devon', 'contains settlement', 'Tiverton'], ['Peter Sainthill', 'member of', 'Long Parliament'], ['Long Parliament', 'inception', 'November 1640'], ['Long Parliament', 'location', 'Devon'], ['Devon', 'contains settlement', 'Tiverton']]
+
+7. Romany Love is a 1931 British musical film directed by Fred Paul and starring Esmond Knight, Florence McHugh and Roy Travers
+[['Romany Love', 'publisher', '1931'], ['Romany Love', 'genre', 'British musical film'], ['Romany Love', 'director', 'Fred Paul'], ['Fred Paul', 'director', 'British']]
+
+8. Monopoly Star Wars is the 1997 Monopoly franchise Star Wars video game based on the board game and set in the Star Wars fictional universe
+[['Monopoly Star Wars', 'game mechanics', 'franchise'], ['Monopoly Star Wars', 'based on', 'Monopoly'], ['Monopoly Star Wars', 'narrative location', 'Star Wars fictional universe']]
+
+9. Josef Schäffer (born July 2, 1891 in Moravia) was an Austrian track and field athlete who competed in the 1912 Summer Olympics
+[['Josef Schäffer', 'date of birth', 'July 2, 1891'], ['Josef Schäffer', 'place of birth', 'Moravia']]
+
+10. Tekla Teresa Łubieńska (born 6 June 1767 in Warsaw, died 15 August 1810 in Kraków) – was a Polish playwright, poet and translator
+[['Tekla Teresa Łubieńska', 'date of birth', '6 June 1767'], ['Tekla Teresa Łubieńska', 'place of birth', 'Warsaw'], ['Tekla Teresa Łubieńska', 'date of death', '15 August 1810'], ['Tekla Teresa Łubieńska', 'place of death', 'Kraków'], ['playwright', 'subclass of', 'writer'], ['writer', 'subclass of', 'person'], ['Polish', 'country', 'Poland']]
+
+11. The 2014 Tasmanian state election was held on 15 March 2014 to elect all 25 members to the House of Assembly
+[['2014 Tasmanian state election', 'point in time', '15 March 2014'], ['2014 Tasmanian state election', 'instance of', 'to elect all members'], ['House of Assembly', 'instance of', '25']]
+
+12. František Cína Jelínek (6 June 1882, in Prague-Karlín – 3 February 1961, in Prague) was a Czech landscape painter
+[['František Cína Jelínek', 'date of birth', '6 June 1882'], ['František Cína Jelínek', 'place of birth', 'Prague-Karlín'], ['František Cína Jelínek', 'date of death', '3 February 1961'], ['František Cína Jelínek', 'place of death', 'Prague'], ['Czech', 'country', 'Czech Republic']]
+
+13. José González Ganoza (10 July 1954 – 8 December 1987) was a Peruvian international footballer who played as a goalkeeper
+[['José González Ganoza', 'date of birth', '10 July 1954'], ['José González Ganoza', 'date of death', '8 December 1987'], ['Peruvian', 'country of citizenship', 'Peru']]
+
+14. The Canadian Journal of Civil Engineering is a monthly peer-reviewed scientific journal established in 1974 and published by the NRC Research Press
+[['The Canadian Journal of Civil Engineering', 'publisher', '1974'], ['The Canadian Journal of Civil Engineering', 'publisher', 'NRC Research Press'], ['NRC Research Press', 'publisher', 'publisher']]
+
+15. Die Pleite was a German periodical founded and edited by George Grosz, Wieland Herzfelde, and John Heartfield, which ran from 1919 to 1924
+[['Die Pleite', 'founded by', 'George Grosz, Wieland Herzfelde, John Heartfield'], ['George Grosz', 'occupation', 'founder'], ['Wieland Herzfelde', 'occupation', 'founder'], ['John Heartfield', 'occupation', 'founder'], ['Die Pleite', 'inception', '1919-1924']]
+
+16. Soulstice is a downtempo/electronic soul band that is a part of the US based record label Om Records and later to Uno Recordings The band started after a collaboration between Gabriel Rene and Andy Caldwell in 1995
+[['Soulstice', 'founded by', 'downtempo/electronic soul'], ['Soulstice', 'publisher', 'Om Records'], ['Om Records', 'country of origin', 'US'], ['Soulstice', 'founded by', 'collaboration between Gabriel Rene and Andy Caldwell'], ['Gabriel Rene', 'founded by', 'Soulstice'], ['Andy Caldwell', 'founded by', 'Soulstice'], ['Soulstice', 'publisher', 'Uno Recordings'], ['Uno Recordings', 'country of origin', 'US'], ['1995', 'founded by', 'Soulstice']]
+
+17. Innico Maria Guevara-Suardo (4 June 1744 in Naples – 25 April 1814 in Catania) was a member and leader of the Order of Saint John (also known as the Sovereign Military Order of Malta)
+[['Innico Maria Guevara-Suardo', 'date of birth', '4 June 1744'], ['Innico Maria Guevara-Suardo', 'place of birth', 'Naples'], ['Innico Maria Guevara-Suardo', 'date of death', '25 April 1814'], ['Innico Maria Guevara-Suardo', 'place of death', 'Catania'], ['Innico Maria Guevara-Suardo', 'member of', 'Order of Saint John'], ['Order of Saint John', 'instance of', 'Religious Order']]
+
+18. Pati Patni Aur Tawaif [English: Husband, Wife and prostitute] is a 1990 Hindi-language Indian feature film directed by Rajkumar Kohli, starring Mithun Chakraborty, Salma Agha, Farha Naaz and Om Prakash
+[['Pati Patni Aur Tawaif', 'genre', 'Hindi-language Indian feature film'], ['Pati Patni Aur Tawaif', 'director', 'Rajkumar Kohli'], ['Rajkumar Kohli', 'occupation', 'Director'], ['Mithun Chakraborty', 'occupation', 'Actor'], ['Salma Agha', 'occupation', 'Actor'], ['Farha Naaz', 'occupation', 'Actor'], ['Om Prakash', 'occupation', 'Actor']]
+
+19. Addio Alexandra is an Italian romantic drama film, released in 1969
+[['Addio Alexandra', 'genre', 'Italian romantic drama'], ['Addio Alexandra', 'publication date', '1969']]
+
+20. Andri Steinn Guðjónsson (born March 12, 1979, in Reykjavík, Iceland) is an Icelandic film editor
+[['Andri Steinn Guðjónsson', 'date of birth', 'March 12, 1979'], ['Andri Steinn Guðjónsson', 'place of birth', 'Reykjavík'], ['Andri Steinn Guðjónsson', 'country of origin', 'Icelandic'], ['Iceland', 'country', 'Iceland']]
+
+21. The Order of Merit of the Bavarian Crown () was an order of merit of the Kingdom of Bavaria established by King Maximilian Joseph I on 19 March 1808
+[['King Maximilian Joseph I', 'founded by', 'established the Order of Merit of the Bavarian Crown'], ['The Order of Merit of the Bavarian Crown', 'instance of', 'order of merit'], ['The Order of Merit of the Bavarian Crown', 'country of origin', 'Kingdom of Bavaria']]
+
+22. Mohamed Yaghni (born February 22, 1988 in Tiaret) is an Algerian footballer
+[['Mohamed Yaghni', 'date of birth', 'February 22, 1988'], ['Mohamed Yaghni', 'place of birth', 'Tiaret'], ['Mohamed Yaghni', 'country of citizenship', 'Algerian'], ['Algerian', 'instance of', 'footballer']]
+
+23. Marjanu Vella (1927–1988) was a poet born in Tas-Sliema, Malta on 14 December 1927
+[['Marjanu Vella', 'date of birth', '14 December 1927'], ['Marjanu Vella', 'place of birth', 'Tas-Sliema'], ['Tas-Sliema', 'country', 'Malta']]
+
+24. Daniel Deribe Gebremichael (Amharic: ዳንኤል ደርቤ), born 25 March 1983, is an Ethiopian footballer, who currently plays for Hawassa City S.C.
+[['Daniel Deribe Gebremichael', 'date of birth', '25 March 1983'], ['Daniel Deribe Gebremichael', 'country of origin', 'Ethiopian']]
+
+25. Michael Linden (born 30 July 1948 in Simmern/Hunsrück in Rheinland-Pfalz) is a German psychiatrist and professor of psychiatry, psychosomatic medicine and psychotherapy in the Charité University Hospital in Berlin
+[['Michael Linden', 'date of birth', '30 July 1948'], ['Michael Linden', 'place of birth', 'Simmern/Hunsrück'], ['Charité University Hospital', 'location', 'Berlin']]
+
+26. Konjiška Vas (; ) is a settlement in the Municipality of Slovenske Konjice in eastern Slovenia
+[['Konjiška Vas', 'located in the administrative territorial entity', 'Municipality of Slovenske Konjice'], ['Municipality of Slovenske Konjice', 'contains settlement', 'Konjiška Vas'], ['Municipality of Slovenske Konjice', 'country', 'Slovenia'], ['Slovenia', 'contains administrative territorial entity', 'Municipality of Slovenske Konjice']]
+
+27. Matea Samardžić (born 17 January 1995 in Split, Croatia) is a retired Croatian swimmer
+[['Matea Samardžić', 'date of birth', '17 January 1995'], ['Matea Samardžić', 'place of birth', 'Split']]
+
+28. Kirill Shreitor (; ; born 6 August 1986) is a Belarusian footballer, who plays for Baranovichi
+[['Kirill Shreitor', 'date of birth', '6 August 1986'], ['Kirill Shreitor', 'country of origin', 'Belarusian'], ['Kirill Shreitor', 'country for sport', 'Baranovichi']]
+
+29. Macaco Tião ("Tião the Monkey") (January 16, 1963 in Rio de Janeiro – December 23, 1996 in Rio de Janeiro) was a chimpanzee of the Rio de Janeiro Zoological Garden who was very popular with children and visitors
+[['Macaco Tião', 'date of birth', 'January 16, 1963'], ['Macaco Tião', 'place of birth', 'Rio de Janeiro'], ['Macaco Tião', 'date of death', 'December 23, 1996'], ['Macaco Tião', 'place of death', 'Rio de Janeiro'], ['Macaco Tião', 'taxonomic type', 'chimpanzee']]
+
+30. Niculae M. Popescu (February 10, 1881–February 11, 1963) was a Romanian theologian, historian and priest of the Romanian Orthodox Church
+[['Niculae M. Popescu', 'date of birth', 'February 10, 1881'], ['Niculae M. Popescu', 'date of death', 'February 11, 1963'], ['Niculae M. Popescu', 'religion', 'Romanian Orthodox Church'], ['Romanian Orthodox Church', 'religion', 'religion']]
+
+31. The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities is a UNESCO World Heritage Site located in south Iraq
+[['The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities', 'location', 'south Iraq'], ['south Iraq', 'country', 'Iraq']]
+
+32. Sam Cross (born 26 August 1992) is a Welsh rugby union player who plays for Wales and club rugby for the Ospreys as a flanker
+[['Sam Cross', 'date of birth', '26 August 1992'], ['Sam Cross', 'position played on team / speciality', 'flanker'], ['Sam Cross', 'country of citizenship', 'Wales'], ['Wales', 'participating team', 'Sam Cross'], ['Ospreys', 'participating team', 'Sam Cross'], ['Sam Cross', 'participating team', 'Ospreys']]
+
+33. Sergey Yakshin (born May 9, 1968 in Astana) is a Kazakhstani sport shooter
+[['Sergey Yakshin', 'date of birth', 'May 9, 1968'], ['Sergey Yakshin', 'place of birth', 'Astana'], ['Sergey Yakshin', 'country of citizenship', 'Kazakhstani'], ['sports shooter', 'instance of', 'Sergey Yakshin']]
+
+34. The Ichabods played their home games on Foster Field in Yager Stadium at Moore Bowl in Topeka, Kansas, as they have done since 1928
+[['The Ichabods', 'location', 'Foster Field'], ['Foster Field', 'located in the administrative territorial entity', 'Moore Bowl'], ['Moore Bowl', 'located in the administrative territorial entity', 'Topeka'], ['Topeka', 'located in the administrative territorial entity', 'Kansas'], ['Kansas', 'location', 'Moore Bowl'], ['Moore Bowl', 'location', 'Yager Stadium']]
+
+35. Blam! Machinehead (released in the US as Machine Head) is a first-person shooter developed by Core Design and published by Virgin Interactive and Eidos Interactive, released for Sega Saturn, MS-DOS, and PlayStation in 1996
+[['Blam! Machinehead', 'genre', 'first-person shooter'], ['Blam! Machinehead', 'developer', 'Core Design'], ['Core Design', 'publisher', 'Virgin Interactive'], ['Virgin Interactive', 'publisher', 'Eidos Interactive'], ['Blam! Machinehead', 'platform', 'Sega Saturn'], ['Blam! Machinehead', 'platform', 'MS-DOS'], ['Blam! Machinehead', 'platform', 'PlayStation']]
+
+36. She competed in the archery competition at the 2016 Summer Olympics in Rio de Janeiro, finishing in 52nd place in the recurve event
+[['She', 'point in time', '2016 Summer Olympics'], ['2016 Summer Olympics', 'location', 'Rio de Janeiro'], ['She', 'point in time', '52nd'], ['recurve event', 'point in time', '2016 Summer Olympics']]
+
+37. The Midnight Drives is a 2007 British comedy-drama film written and directed by Mark Jenkin, which revolves around a divorcee who takes his bored children on a series of mystical, dream-like excursions through the Cornish country-side after initially failing to connect with them
+[['The Midnight Drives', 'point in time', '2007'], ['The Midnight Drives', 'genre', 'British comedy-drama'], ['The Midnight Drives', 'director', 'Mark Jenkin'], ['children', 'instance of', 'divorcee'], ['Cornish countryside', 'location', 'The Midnight Drives']]
+
+38. Wara Wara is a 1930 Bolivian feature film, directed by José María Velasco Maidana, combining historical drama and romance
+[['Wara Wara', 'country of origin', '1930 Bolivian feature film'], ['Wara Wara', 'performer', 'José María Velasco Maidana'], ['José María Velasco Maidana', 'country of citizenship', 'Bolivian'], ['Bolivian', 'country', 'Bolivia']]
+
+39. Wingfield Cromwell, 2nd Earl of Ardglass, DCL, (12 September 1624 – 3 October 1668) was an English nobleman, son of Thomas Cromwell, 1st Earl of Ardglass and Elizabeth Meverell
+[['Wingfield Cromwell', 'date of birth', '12 September 1624'], ['Wingfield Cromwell', 'father', 'Thomas Cromwell, 1st Earl of Ardglass'], ['Wingfield Cromwell', 'point in time', 'Elizabeth Meverell'], ['DCL', 'instance of', 'Wingfield Cromwell']]
+
+40. The village takes its name from the river Ohre, which rises near the village and empties into the Elbe north of Magdeburg
+[['the village', 'named after', 'river Ohre'], ['river Ohre', 'named after', 'the village'], ['river Ohre', 'named after', 'Elbe'], ['Elbe', 'named after', 'Magdeburg']]
+
+41. Gabriel Obadin Aikhena (born 9 May 1986 in Iseyin) is a Singaporean-Nigerian footballer, who currently plays for Nay Pyi Taw F.C.
+[['Gabriel Obadin Aikhena', 'date of birth', '9 May 1986'], ['Gabriel Obadin Aikhena', 'place of birth', 'Iseyin'], ['Gabriel Obadin Aikhena', 'country of citizenship', 'Singaporean-Nigerian']]
+
+42. Olaf Kapagiannidis (born 11 June 1969 in Berlin-Spandau) is a former professional German footballer
+[['Olaf Kapagiannidis', 'date of birth', '11 June 1969'], ['Olaf Kapagiannidis', 'place of birth', 'Berlin-Spandau'], ['Olaf Kapagiannidis', 'instance of', 'German'], ['German', 'instance of', 'nationality']]
+
+43. Lenílson Porto Peixoto, shortly Lenílson (born October 9, 1983) is a Brazilian footballer who currently plays for União Frederiquense
+[['Lenílson Porto Peixoto', 'date of birth', 'October 9, 1983'], ['Lenílson Porto Peixoto', 'country of citizenship', 'Brazilian'], ['Lenílson Porto Peixoto', 'member of sports team', 'União Frederiquense']]
+
+44. The 2008 Oceania Athletics Championships was the 9th edition of the Oceania Athletics Championships, organised under the supervision of the Oceania Athletic Association, in Saipan, Northern Mariana Islands in June
+[['2008 Oceania Athletics Championships', 'location of formation', '9'], ['2008 Oceania Athletics Championships', 'location', 'Saipan'], ['Saipan', 'located in present-day administrative territorial entity', 'Northern Mariana Islands'], ['2008 Oceania Athletics Championships', 'located in present-day administrative territorial entity', 'June']]
+
+45. Edward Fulton Denison (December 18, 1915, Omaha – October 23, 1992, Washington D.C.) was an American economist
+[['Edward Fulton Denison', 'date of birth', 'December 18, 1915'], ['Edward Fulton Denison', 'place of birth', 'Omaha'], ['Edward Fulton Denison', 'date of death', 'October 23, 1992'], ['Edward Fulton Denison', 'place of death', 'Washington D.C.']]
+
+46. Yvonne Rozille, "née" Marie-Yvonne Gilberte Rouzille (5 January 1900, Commentry – 1 December 1985, Grasse) was a French film actress
+[['Yvonne Rozille', 'date of birth', '5 January 1900'], ['Yvonne Rozille', 'place of birth', 'Commentry'], ['Yvonne Rozille', 'place of death', 'Grasse'], ['Yvonne Rozille', 'country of origin', 'French'], ['French', 'country', 'France']]
+
+47. Eugène Konopatzky (, ; born January 27, 1887 in Lutsk – on October 19, 1962 in Paris) was Russian and Ukrainian painter and printmaker, known artist and modern art theoretician of Russian avant-garde (historically the term "Russian Avant-garde" refers to the art of all countries which were parts of Russia/USSR in the beginning of 20th century)
+[['Eugène Konopatzky', 'date of birth', 'January 27, 1887'], ['Eugène Konopatzky', 'place of birth', 'Lutsk'], ['Eugène Konopatzky', 'place of death', 'Paris'], ['Eugène Konopatzky', 'occupation', 'painter'], ['Eugène Konopatzky', 'occupation', 'printmaker']]
+
+48. The Battle of Azcapotzalco, (), was fought on August 19, 1821, in the town of Azcapotzalco, near Mexico City
+[['The Battle of Azcapotzalco', 'location', 'Azcapotzalco'], ['Azcapotzalco', 'location', 'Mexico City']]
+
+49. Zsófia Erdélyi (born 10 December 1987 in Budapest) is a Hungarian long-distance runner
+[['Zsófia Erdélyi', 'date of birth', '10 December 1987'], ['Zsófia Erdélyi', 'place of birth', 'Budapest'], ['Zsófia Erdélyi', 'instance of', 'Hungarian'], ['long-distance runner', 'instance of', 'Zsófia Erdélyi']]
+
+50. Albert Knapp (25 July 1798, Tübingen - 18 June 1864, Stuttgart) was a German poet and animal welfare activist
+[['Albert Knapp', 'date of birth', '25 July 1798'], ['Albert Knapp', 'place of birth', 'Tübingen'], ['Albert Knapp', 'date of death', '18 June 1864'], ['Albert Knapp', 'place of death', 'Stuttgart'], ['Albert Knapp', 'occupation', 'poet'], ['Albert Knapp', 'occupation', 'animal welfare activist']]
+
+51. Gérard Kobéané (born 24 April 1988 in Karankasso-Vigué Department) is a Burkinabé sprinter
+[['Gérard Kobéané', 'date of birth', '24 April 1988'], ['Gérard Kobéané', 'place of birth', 'Karankasso-Vigué Department'], ['Gérard Kobéané', 'country of origin', 'Burkinabé'], ['Burkinabé', 'country', 'Burkina Faso']]
+
+52. Joey Brock (born 20 September 1988 in Arnhem) is a Dutch professional footballer who plays as a leftback
+[['Joey Brock', 'date of birth', '20 September 1988'], ['Joey Brock', 'place of birth', 'Arnhem'], ['Dutch', 'country of citizenship', 'Joey Brock']]
+
+53. Ernst von Gunten (born 28 July 1921) is a Swiss former sprinter who competed in the 1952 Summer Olympics
+[['Ernst von Gunten', 'date of birth', '28 July 1921'], ['Ernst von Gunten', 'country of citizenship', 'Swiss'], ['Ernst von Gunten', 'sport', 'sprinter'], ['Swiss', 'country', 'Switzerland'], ['summer olympic games', 'country for sport', '1952 Summer Olympics']]
+
+54. Pablo Jáquez Isunza (born 29 September 1995) a Mexican professional association football player who play as a Defender for Pumas Tabasco on loan from UNAM
+[['Pablo Jáquez Isunza', 'date of birth', '29 September 1995'], ['Pablo Jáquez Isunza', 'position played on team / speciality', 'Defender'], ['Pablo Jáquez Isunza', 'position played on team / speciality', 'Pumas Tabasco'], ['UNAM', 'member of sports team', 'Pablo Jáquez Isunza']]
+
+55. The Chindit Memorial is a war memorial in London, England, that commemorates the Chindit special forces, which served in Burma under Major General Orde Wingate in the Second World War
+[['London', 'country', 'England'], ['The Chindit Memorial', 'commemorates', 'Chindit special forces'], ['Major General Orde Wingate', 'military rank', 'Major General']]
+
+56. Draegerman Courage is a 1937 American drama film directed by Louis King and written by Anthony Coldeway
+[['Draegerman Courage', 'instance of', 'American drama'], ['Draegerman Courage', 'publisher', '1937'], ['Draegerman Courage', 'director', 'Louis King'], ['Louis King', 'director', 'director']]
+
+57. Rénald Metelus (born 6 January 1993 in Levallois-Perret, France) is a footballer for CMS Oissel and the Haiti national football team
+[['Rénald Metelus', 'date of birth', '6 January 1993'], ['Rénald Metelus', 'place of birth', 'Levallois-Perret']]
+
+58. Puhung station is a metro station on the Mangyongdae Line of the Pyongyang Metro
+[['Puhung station', 'connecting line', 'Mangyongdae Line'], ['Mangyongdae Line', 'part of', 'Pyongyang Metro']]
+
+59. The 2010 West Oxfordshire District Council election took place on 6 May 2010 to elect members of West Oxfordshire District Council in Oxfordshire, England
+[['2010 West Oxfordshire District Council election', 'country', '6 May 2010'], ['2010 West Oxfordshire District Council election', 'location', 'Oxfordshire'], ['Oxfordshire', 'country', 'England'], ['West Oxfordshire District Council', 'country', 'West Oxfordshire District Council']]
+
+60. Stars Over Broadway is a 1935 American musical film directed by William Keighley, written by Jerry Wald, Julius J. Epstein, & Pat C
+[['Stars Over Broadway', 'screenwriter', '1935'], ['Stars Over Broadway', 'director', 'William Keighley'], ['William Keighley', 'occupation', 'director'], ['Stars Over Broadway', 'screenwriter', 'Jerry Wald, Julius J. Epstein, Pat C.'], ['Jerry Wald', 'occupation', 'writer'], ['Julius J. Epstein', 'occupation', 'writer'], ['Pat C.', 'occupation', 'writer']]
+
+61. Vincent Parisi (born 7 February 1978) is an Italian baseball player who competed in the 2004 Summer Olympics
+[['Vincent Parisi', 'date of birth', '7 February 1978'], ['Vincent Parisi', 'country for sport', 'Italian'], ['Vincent Parisi', 'sport', 'baseball'], ['Italian', 'country for sport', '2004']]
+
+62. Danijel Furtula (born 31 July 1992 in Mojkovac) is a Montenegrin discus thrower who competed in the 2012 Summer Olympics, coming in 20th in qualification group 2 and not advancing
+[['Danijel Furtula', 'date of birth', '31 July 1992'], ['Danijel Furtula', 'place of birth', 'Mojkovac'], ['Danijel Furtula', 'sport', 'discus throwing'], ['2012 Summer Olympics', 'sports discipline competed in', 'Summer Olympics'], ['2012 Summer Olympics', 'competition class', 'group 2'], ['group 2', 'participant', '20th']]
+
+63. Marco Bucci (29 November 1960 – 6 August 2013) was an Italian discus thrower
+[['Marco Bucci', 'date of birth', '29 November 1960'], ['Marco Bucci', 'date of death', '6 August 2013'], ['Marco Bucci', 'sports discipline competed in', 'Italian'], ['discus thrower', 'instance of', 'Marco Bucci']]
+
+64. Begül Löklüoğlu (born 28 August 1988 in Ankara, Turkey) is a Turkish female archer competing in the recurve event
+[['Begül Löklüoğlu', 'date of birth', '28 August 1988'], ['Begül Löklüoğlu', 'place of birth', 'Ankara'], ['Begül Löklüoğlu', 'instance of', 'female'], ['Turkey', 'place of birth', 'Begül Löklüoğlu'], ['archer', 'instance of', 'Begül Löklüoğlu'], ['recurve event', 'instance of', 'Begül Löklüoğlu']]
+
+65. Often referred to as the Rogers Free Library Act, the Rogers Act of 1878 (officially, California State Senate Bill Number 1) was an 1877 bill written in the upper house of the California State Legislature and signed into law on March 18, 1878, by Governor of California William Irwin
+[['Rogers Act of 1878', 'named after', 'California State Senate Bill Number 1'], ['Rogers Act of 1878', 'founded by', '1878'], ['Rogers Act of 1878', 'author', 'California State Legislature'], ['California State Legislature', 'legislative body', 'upper house'], ['California State Legislature', 'legislative body', 'California'], ['California', 'legislative body', 'United States'], ['Governor of California', 'named after', 'William Irwin']]
+
+66. Akira Kono (11 September 1929 – 25 December 1995) was a Japanese gymnast who competed in the 1956 Summer Olympics
+[['Akira Kono', 'date of birth', '11 September 1929'], ['Akira Kono', 'date of death', '25 December 1995'], ['Akira Kono', 'sports discipline competed in', 'gymnast'], ['gymnast', 'sports discipline competed in', '1956 Summer Olympics']]
+
+67. China Railway Siyuan Survey and Design Group Co., Ltd., referred to as Siyuan, is a Chinese engineering survey and design enterprises, under the China Railway Construction Corporation, headquartered in Wuhan, Hubei Province
+[['China Railway Siyuan Survey and Design Group Co., Ltd.', 'subclass of', 'Chinese engineering survey and design enterprises'], ['Siyuan', 'parent organization', 'China Railway Construction Corporation'], ['China Railway Construction Corporation', 'headquarters location', 'Wuhan'], ['Wuhan', 'headquarters location', 'Hubei Province']]
+
+68. Chapagetti () is a brand of ramyeon produced by Nongshim in South Korea since 1984
+[['Chapagetti', 'production company', 'Nongshim'], ['Nongshim', 'country', 'South Korea'], ['Chapagetti', 'production company', '1984'], ['ramyeon', 'production company', 'Chapagetti']]
+
+69. Manuel Angel Manuel Aller Carballo (born April 17, 1963 in Ponferrada, León) is a former Spanish basketball player
+[['Manuel Angel Manuel Aller Carballo', 'date of birth', 'April 17, 1963'], ['Manuel Angel Manuel Aller Carballo', 'place of birth', 'Ponferrada'], ['Manuel Angel Manuel Aller Carballo', 'historical region', 'Spanish'], ['Spanish', 'instance of', 'nation'], ['León', 'historical region', 'Spain'], ['Manuel Angel Manuel Aller Carballo', 'occupation', 'basketball player']]
+
+70. Taranto Cathedral () is a Roman Catholic cathedral in Taranto, Apulia, Italy, dedicated to Saint Catald
+[['Taranto Cathedral', 'country', 'Taranto'], ['Taranto Cathedral', 'country', 'Saint Catald'], ['Taranto', 'country', 'Apulia'], ['Apulia', 'country', 'Italy'], ['Roman Catholic cathedral', 'country', 'Taranto Cathedral']]
+
+71. Spy Time (; ) is a 2015 Spanish Eurospy action comedy film based on the characters from the comic book series of the same name created by Manuel Vázquez Gallego
+[['Spy Time', 'publisher', '2015'], ['Spy Time', 'genre', 'Eurospy action comedy'], ['Spy Time', 'creator', 'Spain'], ['comic book series', 'creator', 'Manuel Vázquez Gallego'], ['Manuel Vázquez Gallego', 'occupation', 'creator']]
+
+72. The 1999 West Oxfordshire District Council election took place on 6 May 1999 to elect members of West Oxfordshire District Council in Oxfordshire, England
+[['1999 West Oxfordshire District Council election', 'point in time', '6 May 1999'], ['1999 West Oxfordshire District Council election', 'location', 'Oxfordshire'], ['Oxfordshire', 'located in the administrative territorial entity', 'England']]
+
+73. The Meursault Investigation () is the first novel by Algerian writer and journalist Kamel Daoud
+[['The Meursault Investigation', 'author', 'Kamel Daoud'], ['Kamel Daoud', 'occupation', 'writer and journalist'], ['The Meursault Investigation', 'genre', 'novel']]
+
+74. It took place at Qizhong Forest Sports City Arena in Shanghai, China from October 11 to October 18, 2015
+[['Qizhong Forest Sports City Arena', 'location', 'Shanghai'], ['Qizhong Forest Sports City Arena', 'country', 'China'], ['Shanghai', 'located in present-day administrative territorial entity', 'China'], ['China', 'contains administrative territorial entity', 'Shanghai'], ['October 11, 2015', 'start time', 'It took place at'], ['October 18, 2015', 'end time', 'It took place at']]
+
+75. Oru Nadigai Natakam Parkiral () is a 1978 Indian Tamil-language romance film directed by A. Bhimsingh and written by Jayakanthan
+[['Oru Nadigai Natakam Parkiral', 'publication date', '1978'], ['Oru Nadigai Natakam Parkiral', 'genre', 'Indian Tamil-language romance film'], ['A. Bhimsingh', 'occupation', 'director'], ['Indian', 'country', 'India'], ['Tamil-language', 'language used', 'Tamil'], ['Tamil', 'language of work or name', 'Tamil-language'], ['romance film', 'subclass of', 'film']]
+
+76. Werner Neumann (21 January 1905, Königstein – 24 April 1991, Leipzig) was a German musicologist
+[['Werner Neumann', 'date of birth', '21 January 1905'], ['Werner Neumann', 'place of birth', 'Königstein'], ['Werner Neumann', 'date of death', '24 April 1991'], ['Werner Neumann', 'place of death', 'Leipzig'], ['Werner Neumann', 'place of birth', 'German'], ['musicologist', 'instance of', 'Werner Neumann']]
+
+77. He founded the Bach-Archiv Leipzig on 20 November 1950 and was a principal editor of the Neue Bach-Ausgabe, the second edition of the complete works of Johann Sebastian Bach
+[['He', 'inception', 'Bach-Archiv Leipzig'], ['Bach-Archiv Leipzig', 'inception', '20 November 1950'], ['He', 'occupation', 'principal editor'], ['Neue Bach-Ausgabe', 'instance of', 'complete works of Johann Sebastian Bach']]
+
+78. Ondel-ondel is a large puppet figure featured in Betawi folk performance of Jakarta, Indonesia
+[['Ondel-ondel', 'instance of', 'puppet'], ['Ondel-ondel', 'instance of', 'Betawi folk performance'], ['Betawi folk performance', 'location', 'Jakarta'], ['Jakarta', 'country', 'Indonesia']]
+
+79. Roberto Nicolás Saucedo (born January 8, 1982 in Santa Fe, Argentina) is a former Argentine footballer who last played for Correcaminos UAT of the Ascenso MX
+[['Roberto Nicolás Saucedo', 'date of birth', 'January 8, 1982'], ['Roberto Nicolás Saucedo', 'place of birth', 'Santa Fe'], ['Roberto Nicolás Saucedo', 'country for sport', 'Argentine'], ['Correcaminos UAT', 'league', 'Ascenso MX']]
+
+80. Ahmed Samuel Milai (March 23, 1908 – April 30, 1970), better known as Sam Milai, was an African American editorial and comic strip cartoonist who drew for the "Pittsburgh Courier"
+[['Ahmed Samuel Milai', 'date of birth', 'March 23, 1908'], ['Ahmed Samuel Milai', 'notable work', 'Sam Milai'], ['Ahmed Samuel Milai', 'occupation', 'editorial and comic strip cartoonist'], ['Ahmed Samuel Milai', 'employer', 'Pittsburgh Courier']]
+
+81. George M. Coombs (November 27, 1851 – March 27, 1909) was an American architect from Maine
+[['George M. Coombs', 'date of birth', 'November 27, 1851'], ['George M. Coombs', 'place of birth', 'Maine'], ['George M. Coombs', 'instance of', 'architect']]
+
+82. Myriam Lignot (born 9 July 1975 in Laon, Aisne) is a French synchronized swimmer and Olympic medalist
+[['Myriam Lignot', 'date of birth', '9 July 1975'], ['Myriam Lignot', 'place of birth', 'Laon'], ['French', 'country', 'France']]
+
+83. The Stronger Sex is a 1931 British drama film directed by Gareth Gundrey and starring Colin Clive, Adrianne Allen and Gordon Harker
+[['The Stronger Sex', 'genre', 'British drama film'], ['The Stronger Sex', 'director', 'Gareth Gundrey'], ['Gareth Gundrey', 'instance of', 'British'], ['The Stronger Sex', 'cast member', 'Colin Clive'], ['Colin Clive', 'occupation', 'Actor'], ['The Stronger Sex', 'cast member', 'Adrianne Allen'], ['Adrianne Allen', 'occupation', 'Actor'], ['Gordon Harker', 'occupation', 'Actor']]
+
+84. Vytshegdosuchus is an extinct genus of paracrocodylomorph archosaur known from the Early Triassic (latest Olenekian stage) Yarenskian Gorizont of the Komi Republic of the European section of Russia
+[['Vytshegdosuchus', 'taxonomic type', 'paracrocodylomorph'], ['paracrocodylomorph', 'subclass of', 'archosaur'], ['Vytshegdosuchus', 'historical region', 'Early Triassic'], ['Early Triassic', 'historical region', 'latest Olenekian'], ['Vytshegdosuchus', 'endemic to', 'Yarenskian Gorizont'], ['Yarenskian Gorizont', 'historical region', 'Komi Republic'], ['Komi Republic', 'part of', 'European section'], ['European section', 'country', 'Russia']]
+
+85. José Augusto Sánchez Pérez (Madrid, 30 November 1882 – 13 November 1958) was a Spanish mathematician and member of the Spanish Royal Academy of Sciences
+[['José Augusto Sánchez Pérez', 'date of birth', '30 November 1882'], ['José Augusto Sánchez Pérez', 'place of birth', 'Madrid'], ['José Augusto Sánchez Pérez', 'member of', 'Spanish Royal Academy of Sciences'], ['Madrid', 'country', 'Spain'], ['Spain', 'country', 'Europe']]
+
+86. Christophe Le Mével (born 11 September 1980 in Lannion) is a French former road racing cyclist, who competed professionally between 2002 and 2014 for the , , and teams
+[['Christophe Le Mével', 'date of birth', '11 September 1980'], ['Christophe Le Mével', 'place of birth', 'Lannion'], ['Christophe Le Mével', 'sport', 'road racing cycling'], ['French', 'place of birth', 'Christophe Le Mével'], ['Christophe Le Mével', 'sport', 'Ag2r La Mondiale, Cofidis, Euskaltel-Euskadi']]
+
+87. Death Trance () is a 2005 Japanese action/fantasy film based on the manga of the same name by Kana Takeuchi
+[['Death Trance', 'genre', 'Japanese'], ['Death Trance', 'after a work by', 'manga'], ['manga', 'author', 'Kana Takeuchi']]
+
+88. In 1993, it was registered together with Hōryū-ji as an UNESCO World Heritage Site under the name "Buddhist Monuments in the Hōryū-ji Area"
+[['it', 'heritage designation', 'Buddhist Monuments in the Hōryū-ji Area'], ['Buddhist Monuments in the Hōryū-ji Area', 'contains', 'Hōryū-ji'], ['Hōryū-ji', 'heritage designation', '1993'], ['UNESCO', 'heritage designation', 'World Heritage Site']]
+
+89. Francisco Calvet i Puig (29 September 1921 – 30 November 2001) was a Spanish footballer who played for FC Barcelona between 1939 and 1952
+[['Francisco Calvet i Puig', 'date of birth', '29 September 1921'], ['Francisco Calvet i Puig', 'date of death', '30 November 2001'], ['Francisco Calvet i Puig', 'sport', 'football'], ['FC Barcelona', 'country', 'Spain']]
+
+90. When a Man Sees Red is a 1917 American silent drama film produced and distributed by the Fox Film Corporation and directed by Frank Lloyd
+[['When a Man Sees Red', 'production company', 'Fox Film Corporation'], ['When a Man Sees Red', 'producer', '1917'], ['When a Man Sees Red', 'director', 'Frank Lloyd']]
+
+91. The Seine at Bougival is an 1876 painting by Alfred Sisley, now in the Impressionist section of the Metropolitan Museum of Art, which acquired it in 1992 as a promised and partial gift of Mr and Mrs Douglas Dillon
+[['The Seine at Bougival', 'author', 'Alfred Sisley'], ['Alfred Sisley', 'author', 'The Seine at Bougival'], ['The Seine at Bougival', 'creator', 'Impressionist section'], ['Impressionist section', 'part of', 'Metropolitan Museum of Art'], ['Metropolitan Museum of Art', 'author', 'Mr and Mrs Douglas Dillon'], ['Mr and Mrs Douglas Dillon', 'author', 'Metropolitan Museum of Art'], ['1992', 'creator', 'The Seine at Bougival by Metropolitan Museum of Art']]
+
+92. Ernst Lichtblau (24 June 1883 in Vienna - 8 January 1963 in Vienna) was an Austrian architect and designer
+[['Ernst Lichtblau', 'date of birth', '24 June 1883'], ['Ernst Lichtblau', 'place of birth', 'Vienna'], ['Ernst Lichtblau', 'date of death', '8 January 1963'], ['Ernst Lichtblau', 'place of death', 'Vienna'], ['architect', 'subclass of', 'designer'], ['designer', 'subclass of', 'Ernst Lichtblau']]
+
+93. Margarete Bause (born 19 January 1959) is a German politician of Alliance 90/The Greens
+[['Margarete Bause', 'date of birth', '19 January 1959'], ['Margarete Bause', 'country of citizenship', 'German'], ['Margarete Bause', 'member of', 'Alliance 90/The Greens']]
+
+94. Biscoe Bay is a bay which indents the southwest coast of Anvers Island immediately north of Biscoe Point, in the Palmer Archipelago, Antarctica
+[['Biscoe Bay', 'located on terrain feature', 'coast of Anvers Island'], ['Biscoe Bay', 'located in the administrative territorial entity', 'Palmer Archipelago'], ['Palmer Archipelago', 'part of', 'Antarctica'], ['Anvers Island', 'located in the administrative territorial entity', 'bay'], ['Biscoe Point', 'located in or next to body of water', 'Biscoe Bay']]
+
+95. The Ruth Rendell Mysteries is a British television crime drama series, produced by TVS and later by its successor Meridian Broadcasting, in association with Blue Heaven productions, for broadcast on the ITV network
+[['The Ruth Rendell Mysteries', 'genre', 'British television crime drama series'], ['TVS', 'production company', 'The Ruth Rendell Mysteries'], ['Meridian Broadcasting', 'production company', 'The Ruth Rendell Mysteries'], ['ITV network', 'original broadcaster', 'The Ruth Rendell Mysteries'], ['Blue Heaven productions', 'production company', 'The Ruth Rendell Mysteries']]
+
+96. Wiesław Wernic (28 February 1906 in Warsaw, 1 August 1986), popular Polish writer and journalist, best known for his series of Wild West books, sometimes called "Polish Karl May"
+[['Wiesław Wernic', 'date of birth', '28 February 1906'], ['Wiesław Wernic', 'place of birth', 'Warsaw'], ['Wiesław Wernic', 'date of death', '1 August 1986'], ['Wiesław Wernic', 'occupation', 'writer'], ['Wiesław Wernic', 'occupation', 'journalist']]
+
+97. The Eye Brook is a watercourse in the East Midlands of England and a tributary of the River Welland
+[['The Eye Brook', 'tributary', 'River Welland'], ['The East Midlands', 'basin country', 'England']]
+
+98. The Energy of Sound is a 1998 album created by Trance Atlantic Air Waves, a side project of Michael Cretu
+[['The Energy of Sound', 'creator', 'Trance Atlantic Air Waves'], ['Trance Atlantic Air Waves', 'creator', 'Michael Cretu'], ['The Energy of Sound', 'creator', '1998']]
+
+99. The Financial Gazette is a weekly English language newspaper published in Zimbabwe
+[['The Financial Gazette', 'language of work or name', 'English'], ['The Financial Gazette', 'country', 'Zimbabwe'], ['Zimbabwe', 'publisher', 'The Financial Gazette']]
+
+100. Jean-Claude Schmitt (born 4 March 1946 in Colmar) is a prominent French medievalist, the former student of Jacques Le Goff, associated with the work of the Annales School.
+[['Jean-Claude Schmitt', 'date of birth', '4 March 1946'], ['Jean-Claude Schmitt', 'place of birth', 'Colmar'], ['Jean-Claude Schmitt', 'location of formation', 'Annales School'], ['Annales School', 'founded by', 'Jacques Le Goff']]
