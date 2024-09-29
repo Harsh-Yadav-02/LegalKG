@@ -17,6 +17,7 @@ Harsh Yadav - harshyamsc23@cs.du.ac.in
 Vishesh Goyal - visheshgmsc23@cs.du.ac.in
 
 ## Acknowledgements
+- Special thanks to Prof. Vasudha Bhatnagar - vbhatnagar@cs.du.ac.in and Dr. Vikas Kumar - vikas@cs.du.ac.in
 - Credits to the Authors of the paper [Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction](https://arxiv.org/abs/2404.03868) for the EDC Framework and the code.
 - Special thanks to the authors of the REBEL dataset and the legal judgement dataset.
 - Acknowledgement to the developers of the LLMs used.
