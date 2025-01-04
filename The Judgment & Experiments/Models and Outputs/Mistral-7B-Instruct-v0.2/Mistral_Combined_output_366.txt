@@ -8,56 +8,56 @@
 [['John Doe', 'place of birth', 'New York City'], ['New York City', 'country', 'United States'], ['John Doe', 'occupation', 'Software Engineer'], ['Software Engineer', 'subclass of', 'Engineer'], ['Engineer', 'field of work', 'Technology']]
 
 4. Cr.A.
-[]
-
-5. No 834 of 2002
 [['Cr.A', 'relative', 'unknown']]
 
-6. The Judgment was delivered by: R V Raveendran, J
+5. No 834 of 2002
 [['No 834 of 2002', 'subclass of', 'Legislation'], ['Year 2002', 'point in time', '2002']]
 
-7. 1.
+6. The Judgment was delivered by: R V Raveendran, J
 [['R V Raveendran', 'instance of', 'Judge']]
 
-8. These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.
+7. 1.
 [['John Doe', 'place of birth', 'American'], ['New York City', 'instance of', 'New York'], ['New York', 'instance of', 'New York State'], ['New York State', 'country', 'United States'], ['John Doe', 'occupation', 'Engineer'], ['Massachusetts Institute of Technology', 'instance of', 'MIT'], ['MIT', 'location', 'Cambridge, Massachusetts'], ['Cambridge, Massachusetts', 'located in present-day administrative territorial entity', 'New York City'], ['John Doe', 'date of birth', 'January 1, 1980'], ['John Doe', 'place of birth', 'Boston, Massachusetts'], ['Boston, Massachusetts', 'instance of', 'Massachusetts'], ['Massachusetts', 'instance of', 'United States'], ['Massachusetts Institute of Technology', 'location of formation', '1861'], ['Massachusetts Institute of Technology', 'instance of', 'Research University'], ['Research University', 'subclass of', 'University']]
 
-9. The said two petitions were filed by the respondents herein u/s.
+8. These appeals are filed against the common order dated 2932001 passed by the Madras High Court allowing Crl.OP Nos2418 of 1999 and 1563 of 2000.
 []
 
-10. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).
+9. The said two petitions were filed by the respondents herein u/s.
 [['two petitions', 'instance of', 'u.s.']]
 
-11. 2.
+10. 482 of Criminal Procedure Code ('Code' for short) for quashing the complaints filed by the appellant against them in CC No.299 of 1999 on the file of Judicial Magistrate No6, Coimbatore and CC No. 286 of 1998 on the file of Judicial Magistrate, Alandur (Chennai).
 [['CC No.299 of 1999', 'target', 'appellant'], ['CC No.299 of 1999', 'applies to jurisdiction', 'Judicial Magistrate No6, Coimbatore'], ['CC No.286 of 1998', 'target', 'appellant'], ['CC No.286 of 1998', 'applies to jurisdiction', 'Judicial Magistrate, Alandur (Chennai)'], ['Criminal Procedure Code', 'applies to jurisdiction', '482'], ['Code', 'applies to jurisdiction', 'Criminal Procedure Code']]
 
-12. The appellant (Indian Oil Corporation, for short 'IOC') entered into two contracts, one with the first respondent (NEPC India Ltd) and the other with its sister company Skyline NEPC Limited ('Skyline' for short) agreeing to supply to them aviation turbine fuel and aviation lubricants (together referred to as "aircraft fuel").
+11. 2.
 []
 
-13. According to the appellant, in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5,28,23,501.90 and Skyline became due in a sum of Rs.13,12,76,421.25 as on 2941997.
+12. The appellant (Indian Oil Corporation, for short 'IOC') entered into two contracts, one with the first respondent (NEPC India Ltd) and the other with its sister company Skyline NEPC Limited ('Skyline' for short) agreeing to supply to them aviation turbine fuel and aviation lubricants (together referred to as "aircraft fuel").
 [['NEPC India Ltd', 'instance of', 'first respondent'], ['Skyline NEPC Limited', 'instance of', 'sister company'], ['Indian Oil Corporation', 'product or material produced', 'aviation turbine fuel'], ['Indian Oil Corporation', 'product or material produced', 'aviation lubricants']]
+
+13. According to the appellant, in respect of the aircraft fuel supplied under the said contracts, the first respondent became due in a sum of Rs.5,28,23,501.90 and Skyline became due in a sum of Rs.13,12,76,421.25 as on 2941997.
+[]
 
 14. 3.
 []
 
 15. The first respondent hypothecated its two Fokker F27-500 Aircrafts, bearing Registration No. VT-NEJ (12684) and VT-NEK (10687) to the appellant under Deed of Hypothecation dated 151997, to secure the outstanding amounts.
-[]
-
-16. Cl. (2) of the said Deed provided that the two aircrafts with all parts and accessories stood hypothecated to IOC by way of charge and as security for payment of the amounts due, with effect from the date of hypothecation.
 [['appellant', 'inflows', 'Fokker F27-500 Aircraft (VT-NEJ)'], ['appellant', 'inflows', 'Fokker F27-500 Aircraft (VT-NEK)']]
 
-17. Cl. (3) read with the schedule set out the instalments schedule for payment of the amount due.
+16. Cl. (2) of the said Deed provided that the two aircrafts with all parts and accessories stood hypothecated to IOC by way of charge and as security for payment of the amounts due, with effect from the date of hypothecation.
 [['Cl. (2) of the said Deed', 'contains', 'hypothecation']]
 
-18. 4.
+17. Cl. (3) read with the schedule set out the instalments schedule for payment of the amount due.
 [['Cl.', 'target', 'read'], ['Cl.', 'target', 'instalments schedule'], ['instalments schedule', 'target', 'payment of amount due']]
 
-19. Under clause (6), NEPC India declared that it would not assign, sell, pledge, charge, underlet or otherwise encumber or part with the possession, custody or beneficial interest in respect of the two aircrafts without the previous written consent of IOC.
+18. 4.
 []
 
-20. It also undertook not to do any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount.
+19. Under clause (6), NEPC India declared that it would not assign, sell, pledge, charge, underlet or otherwise encumber or part with the possession, custody or beneficial interest in respect of the two aircrafts without the previous written consent of IOC.
 [['NEPC India', 'owner of', 'two aircrafts']]
 
+20. It also undertook not to do any act which may diminish the value of the hypothecated property without clearing the entire outstanding amount.
+[]
+----
 21. Cl. (9) provided that if NEPC India failed to pay any of the installments with interest within the stipulated time,or if any undertaking or assurance given by NEPC India was found to be false, IOC shall have the "right to take possession of the hypothecated property" and sell the same by public auction or by private contract and appropriate the sale proceeds towards the outstanding dues without recourse to court of law.
 [['diminish the value of the hypothecated property', 'facet of', 'outstanding amount']]
 
