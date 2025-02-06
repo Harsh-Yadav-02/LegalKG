@@ -1,5 +1,6 @@
 # About The Project
 This repository contains the datasets and output files for our experiments on generating triplets of Legal Documents using various Large Language Models (LLMs). The project involves testing the pipeline on different datasets and LLMs to evaluate their performance and efficiency.
+Presentation slides can be accesed here: https://docs.google.com/presentation/d/1TPMH-E8ZVxPvf2YoWeEnEzObkXRaf7pWSWndoDE_VMw/edit?usp=sharing
 
 ## Datasets
 - **REBEL Dataset**: Provided in the repository.
